@@ -1,12 +1,12 @@
 function censorship(){
     /* censorship 1 */
 
-    document.getElementById("cctitle1").innerHTML = 'Elon Musk buys Twitter.'
-    document.getElementById("cccontent1").innerHTML = ''
+    document.getElementById("cctitle1").innerHTML = 'Max Weinbach suspended from Instagram.'
+    document.getElementById("cccontent1").innerHTML = 'The 9to5Google contributor was reportedly suspended from Instagram without clear reasoning.'
     document.getElementById("cccontent01").innerHTML = ''
     document.getElementById("cclink1").innerHTML = 'Read the Tweet'
-    document.getElementById("cclink1").href = 'https://twitter.com/elonmusk/status/1585341984679469056'
-    document.getElementById("cctime1").innerHTML = '10/30/22 8:36pm MST'
+    document.getElementById("cclink1").href = 'https://twitter.com/maxwinebach/status/1587087125110923267?s=46&t=dno5TCgYzFQnbkAHzH-4UQ'
+    document.getElementById("cctime1").innerHTML = '10/31/22 9:53am MST'
 
     /* censorship 2 */
 
