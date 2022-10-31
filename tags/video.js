@@ -8,7 +8,8 @@ function video(){
     document.getElementById("video").width = ''
     /* rumble: 360 */
     document.getElementById("video").height = ''
-    document.getElementById("videoalert").innerHTML = ''
+
+    document.getElementById("videoalert").innerHTML = 'The are no broadcasts at this time.'
 
 
 }
