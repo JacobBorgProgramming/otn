@@ -26,7 +26,7 @@ function latest(){
     document.getElementById("link11").innerHTML = 'Read the the Tweet'
     document.getElementById("link11").href = 'https://twitter.com/elonmusk/status/1586885887341645824'
     document.getElementById("time11").innerHTML = '10/30/22 6:23pm MST'
-    document.getElementById("telegram11").href = 'https://t.me/openteanews/41'
+    document.getElementById("telegram11").href = 'https://t.me/openteanews/40'
 
     document.getElementById("rlink11").innerHTML = ''
     document.getElementById("rlink11").href = ''
@@ -42,7 +42,7 @@ function latest(){
     document.getElementById("link111").innerHTML = 'Read the Press Release'
     document.getElementById("link111").href = 'https://www.speaker.gov/newsroom/102822-1'
     document.getElementById("time111").innerHTML = '10/30/22 12:14pm MST'
-    document.getElementById("telegram111").href = 'https://t.me/openteanews/40'
+    document.getElementById("telegram111").href = 'https://t.me/openteanews/'
 
     document.getElementById("rlink111").innerHTML = ''
     document.getElementById("rlink111").href = ''
