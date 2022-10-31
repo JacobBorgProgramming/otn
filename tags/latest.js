@@ -21,7 +21,7 @@ function latest(){
     /* Recent 2 */
 
     document.getElementById("title11").innerHTML = 'Musk says that the Twitter board and Wachtell "deliberately hid this evidence from the court."'
-    document.getElementById("content11").innerHTML = '<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Wachtell &amp; Twitter board deliberately hid this evidence from the court. Stay tuned, more to come … <a href="https://t.co/CifaNvtRtt">pic.twitter.com/CifaNvtRtt</a></p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1586885887341645824?ref_src=twsrc%5Etfw">October 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> '
+    document.getElementById("content11").innerHTML = '<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">"Wachtell &amp; Twitter board deliberately hid this evidence from the court. Stay tuned, more to come … "<a href="https://t.co/CifaNvtRtt">pic.twitter.com/CifaNvtRtt</a></p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1586885887341645824?ref_src=twsrc%5Etfw">October 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> '
     document.getElementById("content011").innerHTML = ''
     document.getElementById("link11").innerHTML = 'Read the the Tweet'
     document.getElementById("link11").href = 'https://twitter.com/elonmusk/status/1586885887341645824'
