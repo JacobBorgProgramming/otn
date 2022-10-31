@@ -18,4 +18,6 @@ function funfacts(){
     document.getElementById("fftime2").innerHTML = ''
 
 
+    
+
 }

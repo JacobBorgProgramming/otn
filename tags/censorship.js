@@ -1,4 +1,4 @@
-function research(){
+function censorship(){
     /* censorship 1 */
 
     document.getElementById("cctitle1").innerHTML = 'Elon Musk buys Twitter.'
