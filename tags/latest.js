@@ -1,15 +1,15 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'Stay safe this Halloween.'
-    document.getElementById("content1").innerHTML = 'Do not accept drinks from strangers. Have a designated driver if you go out for drinks. If you have kids, do not let them go trick or treating without an adult you trust.'
+    document.getElementById("title1").innerHTML = 'Facebook Content Request System'
+    document.getElementById("content1").innerHTML = 'Leaked documents show that Facebook has a special website for government officials to flag content on Facebook.'
     document.getElementById("content01").innerHTML = ''
-    document.getElementById("link1").innerHTML = ''
-    document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '10/30/22 12:22pm MST'
+    document.getElementById("link1").innerHTML = 'Read the document'
+    document.getElementById("link1").href = 'https://www.documentcloud.org/documents/23129270-fb-portal'
+    document.getElementById("time1").innerHTML = '10/31/22 12:04pm MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/'
 
-    document.getElementById("rlink1").innerHTML = ''
-    document.getElementById("rlink1").href = ''
+    document.getElementById("rlink1").innerHTML = 'Truth Cops: Leaked Documents Outline DHSs Plans to Police Disinformation - The Intercept'
+    document.getElementById("rlink1").href = 'https://theintercept.com/2022/10/31/social-media-disinformation-dhs/'
 
     document.getElementById("rlink01").innerHTML = ''
     document.getElementById("rlink01").href = ''
