@@ -1,12 +1,12 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'Bill introduced would regulate major league sports teams abilities to relocate.'
-    document.getElementById("content1").innerHTML = 'If passed, H.R. 9151: SPURS Act, would introduce four requirements that would have to be met in order for a major sports team to relocate to a new community.'
-    document.getElementById("content01").innerHTML = 'The bill was introduced on October 7th, 2022 and has not been voted on at this time.'
-    document.getElementById("link1").innerHTML = 'Read the bill'
-    document.getElementById("link1").href = 'https://www.congress.gov/bill/117th-congress/house-bill/9151/text?q=%7B%22search%22%3A%5B%22H.R.+9151%3A+SPURS+Act%22%2C%22H.R.%22%2C%229151%3A%22%2C%22SPURS%22%2C%22Act%22%5D%7D&r=1&s=1'
-    document.getElementById("time1").innerHTML = '11/1/22 4:53pm MST'
-    document.getElementById("telegram1").href = 'https://t.me/openteanews/42'
+    document.getElementById("title1").innerHTML = 'POTUS draws lines between the attack on Paul Pelosi and Jan 6.'
+    document.getElementById("content1").innerHTML = '"...after the assailant entered the home asking, “Wheres Nancy?  Wheres Nancy?” Those were the very same words used by the mob when they stormed the United States Capitol on January the 6th..."'
+    document.getElementById("content01").innerHTML = '"...It was an enraged mob that had been whipped up into a frenzy by a President repeating over and over again the Big Lie that the election of 2020 had been stolen..."'
+    document.getElementById("link1").innerHTML = 'Read the full speech'
+    document.getElementById("link1").href = 'https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/03/remarks-by-president-biden-on-standing-up-for-democracy/'
+    document.getElementById("time1").innerHTML = '11/3/22 4:53pm MST'
+    document.getElementById("telegram1").href = 'https://t.me/openteanews/43'
 
     document.getElementById("rlink1").innerHTML = ''
     document.getElementById("rlink1").href = ''
