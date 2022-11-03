@@ -1,6 +1,6 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'POTUS draws line between the attack on Paul Pelosi and Jan 6.'
+    document.getElementById("title1").innerHTML = 'POTUS draws line between the attack on Paul Pelosi and Jan 6 in speech (11/2).'
     document.getElementById("content1").innerHTML = '"...after the assailant entered the home asking, “Wheres Nancy?  Wheres Nancy?” Those were the very same words used by the mob when they stormed the United States Capitol on January the 6th..."'
     document.getElementById("content01").innerHTML = '"...It was an enraged mob that had been whipped up into a frenzy by a President repeating over and over again the Big Lie that the election of 2020 had been stolen."'
     document.getElementById("link1").innerHTML = 'Read the full speech'
