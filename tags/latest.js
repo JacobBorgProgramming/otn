@@ -1,6 +1,6 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'DOJ announces the largest US DOJ seizure of cryptocurreny- 50,676.17851897 BTC.'
+    document.getElementById("title1").innerHTML = 'DOJ announces the largest US DOJ seizure of cryptocurreny: 50,676.17851897 BTC.'
     document.getElementById("content1").innerHTML = 'At the time, the 50,676.17851897 BTC was valued at $3.36 billion.'
     document.getElementById("content01").innerHTML = ''
     document.getElementById("link1").innerHTML = 'Read the release'
