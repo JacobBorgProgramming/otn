@@ -1,6 +1,6 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'Various corporations suspend advertising on Twitter due to Elon Musk purchasing the social network.'
+    document.getElementById("title1").innerHTML = 'Various corporations suspend advertising on Twitter in response to Elon Musk purchasing the social network.'
     document.getElementById("content01").innerHTML = ''
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
