@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("link1").innerHTML = 'Read the release'
     document.getElementById("link1").href = 'https://www.justice.gov/usao-sdny/pr/us-attorney-announces-historic-336-billion-cryptocurrency-seizure-and-conviction'
     document.getElementById("time1").innerHTML = '11/7/22 2:01pm MST'
-    document.getElementById("telegram1").href = 'https://t.me/openteanews/45'
+    document.getElementById("telegram1").href = 'https://t.me/openteanews/46'
 
     document.getElementById("rlink1").innerHTML = ''
     document.getElementById("rlink1").href = ''
