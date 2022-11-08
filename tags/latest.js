@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
     document.getElementById("time1").innerHTML = '11/7/22 8:09pm MST'
-    document.getElementById("telegram1").href = 'https://t.me/openteanews/47'
+    document.getElementById("telegram1").href = 'https://t.me/openteanews/48'
 
     document.getElementById("rlink1").innerHTML = ''
     document.getElementById("rlink1").href = ''
