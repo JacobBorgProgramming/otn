@@ -8,11 +8,11 @@ function latest(){
     document.getElementById("time1").innerHTML = '11/8/22 9:01am MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/49'
 
-    document.getElementById("rlink1").innerHTML = ''
-    document.getElementById("rlink1").href = ''
+    document.getElementById("rlink1").innerHTML = 'See The Post Millennials Tweet'
+    document.getElementById("rlink1").href = 'https://twitter.com/TPostMillennial/status/1589994092335071232?s=20&t=ZHsGIqvi7VQCyYHe5QrYUA'
 
-    document.getElementById("rlink01").innerHTML = ''
-    document.getElementById("rlink01").href = ''
+    document.getElementById("rlink01").innerHTML = 'See The Post Millennials Tweet'
+    document.getElementById("rlink01").href = 'https://twitter.com/TPostMillennial/status/1589999456178831370?s=20&t=ZHsGIqvi7VQCyYHe5QrYUA'
 
     
     
