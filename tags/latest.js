@@ -8,7 +8,7 @@ function latest(){
     document.getElementById("time1").innerHTML = '11/8/22 9:01am MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/49'
 
-    document.getElementById("rlink1").innerHTML = 'See Tyler Bowyer Tweet'
+    document.getElementById("rlink1").innerHTML = 'See Tyler Bowyers Tweet'
     document.getElementById("rlink1").href = 'https://twitter.com/tylerbowyer/status/1589986706744578048'
 
     document.getElementById("rlink01").innerHTML = 'See The Post Millennials Tweet'
