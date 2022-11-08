@@ -52,7 +52,13 @@
         <loc>/about.html</loc>
     </url>
     <url>
+        <loc>/blank.html</loc>
+    </url>
+    <url>
         <loc>/contact.html</loc>
+    </url>
+    <url>
+        <loc>/data.html</loc>
     </url>
     <url>
         <loc>/developer.html</loc>
