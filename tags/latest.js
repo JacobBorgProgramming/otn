@@ -1,12 +1,12 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = ''
+    document.getElementById("title1").innerHTML = 'Trump says that he will make a major announcement on November 15th.'
     document.getElementById("content1").innerHTML = ''
     document.getElementById("content01").innerHTML = ''
     document.getElementById("link1").innerHTML = ''
     document.getElementById("link1").href = ''
-    document.getElementById("time1").innerHTML = '11/7/22 2:01pm MST'
-    document.getElementById("telegram1").href = 'https://t.me/openteanews/46'
+    document.getElementById("time1").innerHTML = '11/7/22 8:09pm MST'
+    document.getElementById("telegram1").href = 'https://t.me/openteanews/47'
 
     document.getElementById("rlink1").innerHTML = ''
     document.getElementById("rlink1").href = ''
