@@ -2,10 +2,10 @@ function latest(){
     /* Top most entry */
     document.getElementById("title1").innerHTML = 'Republicans file lawsuit in AZ against Maricopa County.'
     document.getElementById("content1").innerHTML = 'According to the filing, at least 36% of Maricopa voting centers have experienced malfunctions with tabulators and/or printers.'
-    document.getElementById("content01").innerHTML = 'The suit seeks to extend voting hours until 10pm, November 8th, 2022.'
+    document.getElementById("content01").innerHTML = '<p>The suit seeks to extend voting hours until 10pm, November 8th, 2022. </p> <p>Judge rules against the TRO request.</p>'
     document.getElementById("link1").innerHTML = 'Read the filing'
     document.getElementById("link1").href = 'https://prod-media-assets.protectthevote.com/media/document/news/AZ_Complaint_11.8_y8mj6e7n.pdf'
-    document.getElementById("time1").innerHTML = '11/8/22 6:46pm MST'
+    document.getElementById("time1").innerHTML = '<p>Updated 11/8/22 7:33</p><p>11/8/22 6:46pm MST</p>'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/50'
 
     document.getElementById("rlink1").innerHTML = 'Read the Tweet from Harmeet K. Dhillon'
