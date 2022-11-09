@@ -1,6 +1,6 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'Lawsuit filed in AZ against Maricopa County.'
+    document.getElementById("title1").innerHTML = 'Republicans file lawsuit in AZ against Maricopa County.'
     document.getElementById("content1").innerHTML = 'According to the filing, at least 36% of Maricopa voting centers have experienced malfunctions with tabulators and/or printers.'
     document.getElementById("content01").innerHTML = 'The suit seeks to extend voting hours until 10pm, November 8th, 2022.'
     document.getElementById("link1").innerHTML = 'Read the filing'
