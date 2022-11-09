@@ -8,7 +8,7 @@ function latest(){
     document.getElementById("time1").innerHTML = '11/8/22 6:46pm MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/50'
 
-    document.getElementById("rlink1").innerHTML = 'Read the Tweet from Harmeet K. Dhillons '
+    document.getElementById("rlink1").innerHTML = 'Read the Tweet from Harmeet K. Dhillon'
     document.getElementById("rlink1").href = 'https://twitter.com/pnjaban/status/1590130143309500416'
 
     document.getElementById("rlink01").innerHTML = ''
