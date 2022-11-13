@@ -2,7 +2,7 @@ function research(){
     /* older 1 */
 
     document.getElementById("rtitle1").innerHTML = '2020-2021 California Education: LA, Fresno, Kings, & Kern Counties'
-    document.getElementById("rcontent1").innerHTML = 'A common political talking point is that Democratic areas have better education than Republican. We decided to investigate this.'
+    document.getElementById("rcontent1").innerHTML = ''
     document.getElementById("rcontent2").innerHTML = ''
     document.getElementById("rlink1").innerHTML = 'View the data'
     document.getElementById("rlink1").href = 'https://www.openteanews.com/data/education/CaliforniaSchools4countyReview.html'
