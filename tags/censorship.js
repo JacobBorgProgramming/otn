@@ -1,11 +1,11 @@
 function censorship(){
     /* censorship 1 */
 
-    document.getElementById("cctitle1").innerHTML = 'Kathy Griffin (@kathygriffin) suspended from Twitter for impersonation.'
-    document.getElementById("cccontent1").innerHTML = 'The comedian was suspened for impersonating Elon Musk.'
+    document.getElementById("cctitle1").innerHTML = 'The social networking site "Minds.com" has been blocked in China.'
+    document.getElementById("cccontent1").innerHTML = 'In a Tweet shared by the social network, the company informed users that their website had been blocked.'
     document.getElementById("cccontent01").innerHTML = ''
-    document.getElementById("cclink1").innerHTML = ''
-    document.getElementById("cclink1").href = ''
+    document.getElementById("cclink1").innerHTML = 'Read the Tweet'
+    document.getElementById("cclink1").href = 'https://twitter.com/minds/status/1592183299925217281?s=46&t=ZQD4PLbLg3Ce-kmC43U1jg'
     document.getElementById("cctime1").innerHTML = '11/7/22 1:40pm MST'
 
     /* censorship 2 */
