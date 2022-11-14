@@ -6,7 +6,7 @@ function censorship(){
     document.getElementById("cccontent01").innerHTML = ''
     document.getElementById("cclink1").innerHTML = 'Read the Tweet'
     document.getElementById("cclink1").href = 'https://twitter.com/minds/status/1592183299925217281?s=46&t=ZQD4PLbLg3Ce-kmC43U1jg'
-    document.getElementById("cctime1").innerHTML = '11/7/22 1:40pm MST'
+    document.getElementById("cctime1").innerHTML = '11/14/22 1:27pm MST'
 
     /* censorship 2 */
 
