@@ -5,9 +5,9 @@ function video(){
     /* rumble: rumble */
     document.getElementById("video").class = 'rumble'
     /* rumble: 640 */
-    document.getElementById("video").width = '640px'
+    document.getElementById("video").width = '640'
     /* rumble: 360 */
-    document.getElementById("video").height = '360px'
+    document.getElementById("video").height = '360'
 
     document.getElementById("videoalert").innerHTML = ''
 
