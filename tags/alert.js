@@ -1,7 +1,7 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = ''
-    document.getElementById("alink").innerHTML = '2022 Midterm Election Latest Results'
-    document.getElementById("alink").href = 'https://www.realclearpolitics.com/'
+    document.getElementById("acontent1").innerHTML = 'DJT has announced his candidacy for 2024.'
+    document.getElementById("alink").innerHTML = ''
+    document.getElementById("alink").href = ''
 }
 
 /*
