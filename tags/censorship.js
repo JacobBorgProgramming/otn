@@ -10,7 +10,7 @@ function censorship(){
 
     /* censorship 2 */
 
-    document.getElementById("cctitle11").innerHTML = 'The Babylon Bee, Jordan Peterson, and Kathy Griffin have been unbanned from Twitter.'
+    document.getElementById("cctitle11").innerHTML = 'The Babylon Bee, Jordan Peterson, and Kathie Griffin have been unbanned from Twitter.'
     document.getElementById("cccontent11").innerHTML = 'Twitter owner Elon Musk Tweeted this morning that the users were being unbanned.'
     document.getElementById("cccontent011").innerHTML = ''
     document.getElementById("cclink11").innerHTML = 'Read the Tweet'
