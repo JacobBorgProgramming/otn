@@ -1,0 +1,35 @@
+CACHE MANIFEST
+# 2010-06-18:v2
+
+# Explicitly cached 'master entries'.
+CACHE:
+
+index.html
+asstes/img/otn_globe.png
+asstes/img/otn_logo_web.png
+assets/bootstrap/css/bootstrap.min.css
+assets/css/Navigation-Clean.css
+assets/css/Footer-Basic.css
+assets/css/Footer-Dark-Multi-Column-icons.css
+assets/css/Nanum Gothic Bold.css
+assets/css/Nanum Gothic ExtraBold.css
+assets/css/Nanum Gothic.css
+assets/css/CopaseticNf.css
+assets/css/Contact-Form-Clean.css
+
+# Resources that require the user to be online.
+NETWORK:
+*
+tags/latest.js
+tags/funfacts.js
+tags/meme.js
+tags/video.js
+tags/censorship.js
+tags/polls.js
+tags/alert.js
+
+# static.html will be served if main.py is inaccessible
+# offline.jpg will be served in place of all images in images/large/
+# offline.html will be served in place of all other .html files
+FALLBACK:
+#/main.py /static.html
