@@ -10,11 +10,11 @@ function censorship(){
 
     /* censorship 2 */
 
-    document.getElementById("cctitle11").innerHTML = 'YouTube issues hardstrike against StevenCrowder.'
-    document.getElementById("cccontent11").innerHTML = 'According to Crowder, YouTube did not provide specifics about why the strike was being issued other than that the video violated their harrassment and bullying guidelines.'
+    document.getElementById("cctitle11").innerHTML = 'The Babylon Bee, Jordan Peterson, and Kathy Griffin have been unbanned from Twitter.'
+    document.getElementById("cccontent11").innerHTML = 'Twitter owner Elon Musk Tweeted this morning that the users were being unbanned.'
     document.getElementById("cccontent011").innerHTML = ''
-    document.getElementById("cclink11").innerHTML = 'Read the post'
-    document.getElementById("cclink11").href = 'https://www.instagram.com/p/CkTu8-Iur9h/'
-    document.getElementById("cctime11").innerHTML = '10/30/22 8:40pm MST'
+    document.getElementById("cclink11").innerHTML = 'Read the Tweet'
+    document.getElementById("cclink11").href = 'https://twitter.com/elonmusk/status/1593673844996288512?s=46&t=d59S_r15dA-ErdROuCs9wQ'
+    document.getElementById("cctime11").innerHTML = '11/18/22 5:05pm MST'
 
 }
