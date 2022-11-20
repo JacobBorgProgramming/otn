@@ -22,7 +22,7 @@ function latest(){
     document.getElementById("title11").innerHTML = 'Project Veritas Twitter account has been reinstated.'
     document.getElementById("content11").innerHTML = ''
     document.getElementById("content011").innerHTML = ''
-    document.getElementById("link11").innerHTML = 'Read the profile'
+    document.getElementById("link11").innerHTML = 'See their profile'
     document.getElementById("link11").href = 'https://twitter.com/Project_Veritas'
     document.getElementById("time11").innerHTML = '11/20/22 3:01pm MST'
     document.getElementById("telegram11").href = 'https://t.me/openteanews/59'
