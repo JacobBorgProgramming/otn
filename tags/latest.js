@@ -2,7 +2,7 @@ function latest(){
     /* Top most entry */
     document.getElementById("title1").innerHTML = 'CBS News is suspending its use of Twitter, per Forbes.'
     document.getElementById("content1").innerHTML = 'The decision comes not long after Elon Musk took over the social networking site.'
-    document.getElementById("content01").innerHTML = ''
+    document.getElementById("content01").innerHTML = 'Update: 11/20/22 3:02pm MST: CBS announces it is resuming Twitter operations.'
     document.getElementById("link1").innerHTML = 'Read the article from Forbes'
     document.getElementById("link1").href = 'https://www.forbes.com/sites/markjoyella/2022/11/19/cbs-news-suspends-all-activity-on-twitter-in-light-of-the-uncertainty-surrounding-platform-under-musk/?sh=38c8d66fff96'
     document.getElementById("time1").innerHTML = 'Updated: 11/20/22 3:02pm MST | 11/19/22 1:21pm MST'
