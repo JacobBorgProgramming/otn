@@ -8,8 +8,8 @@ function latest(){
     document.getElementById("time1").innerHTML = 'Updated: 11/20/22 3:02pm MST | 11/19/22 1:21pm MST'
     document.getElementById("telegram1").href = 'https://t.me/openteanews/56'
 
-    document.getElementById("rlink1").innerHTML = ''
-    document.getElementById("rlink1").href = ''
+    document.getElementById("rlink1").innerHTML = 'See the Tweet'
+    document.getElementById("rlink1").href = 'https://twitter.com/openteanews/status/1594405324294746113?s=20&t=mg9zg-TNWSe_N3-DA8DQnQ'
 
     document.getElementById("rlink01").innerHTML = ''
     document.getElementById("rlink01").href = ''
