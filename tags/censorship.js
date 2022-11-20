@@ -1,12 +1,12 @@
 function censorship(){
     /* censorship 1 */
 
-    document.getElementById("cctitle1").innerHTML = 'The social networking site "Minds.com" has been blocked in China.'
-    document.getElementById("cccontent1").innerHTML = 'In a Tweet shared by the social network, the company informed users that their website had been blocked.'
+    document.getElementById("cctitle1").innerHTML = 'Trumps Twitter account will be reinstated.'
+    document.getElementById("cccontent1").innerHTML = ''
     document.getElementById("cccontent01").innerHTML = ''
     document.getElementById("cclink1").innerHTML = 'Read the Tweet'
-    document.getElementById("cclink1").href = 'https://twitter.com/minds/status/1592183299925217281?s=46&t=ZQD4PLbLg3Ce-kmC43U1jg'
-    document.getElementById("cctime1").innerHTML = '11/14/22 1:27pm MST'
+    document.getElementById("cclink1").href = 'https://twitter.com/elonmusk/status/1594131768298315777?s=20&t=qQix0cRAY_RFYIyLvNLQKg'
+    document.getElementById("cctime1").innerHTML = '11/19/22 5:55pm MST'
 
     /* censorship 2 */
 
