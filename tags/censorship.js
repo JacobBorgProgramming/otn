@@ -10,11 +10,11 @@ function censorship(){
 
     /* censorship 2 */
 
-    document.getElementById("cctitle11").innerHTML = 'The Babylon Bee, Jordan Peterson, and Kathie Griffin have been unbanned from Twitter.'
-    document.getElementById("cccontent11").innerHTML = 'Twitter owner Elon Musk Tweeted this morning that the users were being unbanned.'
+    document.getElementById("cctitle11").innerHTML = '"Students for Kari Lake" has been banned from TikTok.'
+    document.getElementById("cccontent11").innerHTML = ''
     document.getElementById("cccontent011").innerHTML = ''
     document.getElementById("cclink11").innerHTML = 'Read the Tweet'
-    document.getElementById("cclink11").href = 'https://twitter.com/elonmusk/status/1593673844996288512?s=46&t=d59S_r15dA-ErdROuCs9wQ'
-    document.getElementById("cctime11").innerHTML = '11/18/22 5:05pm MST'
+    document.getElementById("cclink11").href = 'https://twitter.com/StudentsForKari/status/1594868962084491269'
+    document.getElementById("cctime11").innerHTML = '11/21/22 9:06pm MST'
 
 }
