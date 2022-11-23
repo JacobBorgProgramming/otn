@@ -37,6 +37,9 @@
         <loc>/archive/2021/template.html</loc>
     </url>
     <url>
+        <loc>/archive/2022/404.html</loc>
+    </url>
+    <url>
         <loc>/archive/2022/feb.html</loc>
     </url>
     <url>
@@ -46,13 +49,25 @@
         <loc>/archive/2022/jan.html</loc>
     </url>
     <url>
+        <loc>/archive/404.html</loc>
+    </url>
+    <url>
         <loc>/archive/</loc>
+    </url>
+    <url>
+        <loc>/data/education/404.html</loc>
     </url>
     <url>
         <loc>/data/education/CaliforniaSchools4countyReview.html</loc>
     </url>
     <url>
         <loc>/data/population/20122020voterturnout.html</loc>
+    </url>
+    <url>
+        <loc>/data/population/404.html</loc>
+    </url>
+    <url>
+        <loc>/data/404.html</loc>
     </url>
     <url>
         <loc>/data/education.html</loc>
@@ -62,6 +77,9 @@
     </url>
     <url>
         <loc>/data/population.html</loc>
+    </url>
+    <url>
+        <loc>/404.html</loc>
     </url>
     <url>
         <loc>/about.html</loc>
