@@ -1,7 +1,7 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'Twitter has reinstated DJTs account. '
-    document.getElementById("alink").innerHTML = 'View his profile'
-    document.getElementById("alink").href = 'https://twitter.com/realDonaldTrump'
+    document.getElementById("acontent1").innerHTML = 'Happy Thanksgiving!'
+    document.getElementById("alink").innerHTML = ''
+    document.getElementById("alink").href = ''
 }
 
 /*
