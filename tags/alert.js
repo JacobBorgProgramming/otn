@@ -1,7 +1,7 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'Happy Thanksgiving!'
-    document.getElementById("alink").innerHTML = ''
-    document.getElementById("alink").href = ''
+    document.getElementById("acontent1").innerHTML = 'Grounds Tech Talk joins OTN as '
+    document.getElementById("alink").innerHTML = 'OTN Technology.'
+    document.getElementById("alink").href = 'https://technology.openteanews.com/'
 }
 
 /*
