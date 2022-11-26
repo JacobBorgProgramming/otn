@@ -1,6 +1,7 @@
 function latest(){
     /* Top most entry */
-    document.getElementById("title1").innerHTML = 'Elon Musks "General Amnesty" Twitter poll has ended.'
+    var l5 = "1"
+    document.getElementById("title"+l5).innerHTML = 'Elon Musks "General Amnesty" Twitter poll has ended.'
     document.getElementById("content1").innerHTML = 'Yes: 72.4%'
     document.getElementById("content01").innerHTML = 'No: 27.6%'
     document.getElementById("link1").innerHTML = 'See the Tweet'
