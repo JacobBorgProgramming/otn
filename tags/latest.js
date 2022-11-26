@@ -8,7 +8,7 @@ function latest(){
     document.getElementById("time"+l2).innerHTML = '11/26/22 10:55am MST'
     document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/62'
 
-    document.getElementById("rlink"+l2).innerHTML = ''
+    document.getElementById("rlink"+l2).innerHTML = '<img width="250px" src="https://pbs.twimg.com/media/Fid9FU8XwAEguKR?format=jpg&name=small">'
     document.getElementById("rlink"+l2).href = ''
 
     document.getElementById("rlink0"+l2).innerHTML = ''
