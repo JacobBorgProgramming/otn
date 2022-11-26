@@ -3,7 +3,7 @@ function censorship(){
 
     document.getElementById("cctitle1").innerHTML = 'YouTube fact checks World Government Summit video on NWO.'
     document.getElementById("cccontent1").innerHTML = 'YouTube puts fact check from Wikipedia calling NWO a "conspiracy theory," on a video from the World Government Summit titled: "Are We Ready for a New World Order?".'
-    document.getElementById("cccontent01").innerHTML = '<img width="250px" src="https://pbs.twimg.com/media/Fid9FU8XwAEguKR?format=jpg&name=small">'
+    document.getElementById("cccontent01").innerHTML = ''
     document.getElementById("cclink1").innerHTML = 'See the video'
     document.getElementById("cclink1").href = 'https://www.youtube.com/watch?v=CDDlWKSQvS8'
     document.getElementById("cctime1").innerHTML = '11/26/22 10:55am MST'
