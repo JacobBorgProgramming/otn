@@ -8,8 +8,8 @@ var l3 = "1"
     document.getElementById("time"+l3).innerHTML = '11/27/22 11:58am MST'
     document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/63'
 
-    document.getElementById("rlink"+l3).innerHTML = ''
-    document.getElementById("rlink"+l3).href = ''
+    document.getElementById("rlink"+l3).innerHTML = 'See the latest from Disclose.tv'
+     document.getElementById("rlink"+l3).href = 'https://twitter.com/disclosetv/status/1596822446643953664?s=46&t=OT3dYBg3-bY3CIW8n2mGxg'
 
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
