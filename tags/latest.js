@@ -5,8 +5,8 @@ var l3 = "1"
     document.getElementById("content0"+l3).innerHTML = ''
     document.getElementById("link"+l3).innerHTML = 'See the Tweet'
     document.getElementById("link"+l3).href = 'https://twitter.com/electionwiz/status/1596939632994062337?s=46&t=OT3dYBg3-bY3CIW8n2mGxg'
-    document.getElementById("time"+l3).innerHTML = '11/20/22 3:01pm MST'
-    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/59'
+    document.getElementById("time"+l3).innerHTML = '11/27/22 11:58am MST'
+    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/63'
 
     document.getElementById("rlink"+l3).innerHTML = ''
     document.getElementById("rlink"+l3).href = ''
