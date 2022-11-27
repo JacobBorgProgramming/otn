@@ -1,7 +1,7 @@
 function alert(){
-    document.getElementById("acontent1").innerHTML = 'Grounds Tech Talk joins OTN as '
-    document.getElementById("alink").innerHTML = 'OTN Technology.'
-    document.getElementById("alink").href = 'https://technology.openteanews.com/'
+    document.getElementById("acontent1").innerHTML = '1036 views: our most successful week yet! Thank you for supporting independent media. '
+    document.getElementById("alink").innerHTML = 'View the data'
+    document.getElementById("alink").href = 'https://www.openteanews.com/reach.html'
 }
 
 /*
