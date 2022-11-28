@@ -6,7 +6,7 @@ function latest(){
     document.getElementById("content0"+l5).innerHTML = ''
     document.getElementById("link"+l5).innerHTML = 'See the Tweet'
     document.getElementById("link"+l5).href = 'https://twitter.com/HawaiiRedCross/status/1597267905099374592'
-    document.getElementById("time"+l5).innerHTML = '11/84/22 10:22am MST'
+    document.getElementById("time"+l5).innerHTML = '11/28/22 10:22am MST'
     document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/72'
 
     document.getElementById("rlink"+l5).innerHTML = ''
