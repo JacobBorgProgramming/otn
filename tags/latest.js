@@ -1,7 +1,7 @@
 function latest(){
 
     var l5 = "1"
-    document.getElementById("title"+l5).innerHTML = 'Red Cross opens shelter on the Big Island in response to the eruption of Mauna Loa.'
+    document.getElementById("title"+l5).innerHTML = 'Red Cross opens shelters on the Big Island in response to the eruption of Mauna Loa.'
     document.getElementById("content"+l5).innerHTML = ''
     document.getElementById("content0"+l5).innerHTML = ''
     document.getElementById("link"+l5).innerHTML = 'See the Tweet'
