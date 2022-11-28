@@ -10,11 +10,11 @@ function censorship(){
 
     /* censorship 2 */
 
-    document.getElementById("cctitle11").innerHTML = '"Students for Kari Lake" has been banned from TikTok.'
-    document.getElementById("cccontent11").innerHTML = ''
+    document.getElementById("cctitle11").innerHTML = '"Elon Musk:'
+    document.getElementById("cccontent11").innerHTML = '"Apple has also threatened to withhold Twitter from its App Store, but won’t tell us why"'
     document.getElementById("cccontent011").innerHTML = ''
     document.getElementById("cclink11").innerHTML = 'Read the Tweet'
-    document.getElementById("cclink11").href = 'https://twitter.com/StudentsForKari/status/1594868962084491269'
-    document.getElementById("cctime11").innerHTML = '11/21/22 9:06pm MST'
+    document.getElementById("cclink11").href = 'https://twitter.com/elonmusk/status/1597300125243944961?s=46&t=DSLM8jksYtsC7nqPpM0LdA'
+    document.getElementById("cctime11").innerHTML = '11/28/22 12:06pm MST'
 
 }
