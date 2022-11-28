@@ -1,7 +1,7 @@
 function latest(){
     var l4 = "1"
     document.getElementById("title"+l4).innerHTML = 'BlockFi files voluntary chapter 11.'
-    document.getElementById("content"+l4).innerHTML = 'The crypto exchange announced its chapter 11 filing just 17 days after FTX, another crypto exchange, filed for chapter 11.'
+    document.getElementById("content"+l4).innerHTML = 'The crypto company announced its chapter 11 filing just 17 days after FTX, a crypto exchange, filed for chapter 11.'
     document.getElementById("content0"+l4).innerHTML = ''
     document.getElementById("link"+l4).innerHTML = 'Read the release'
     document.getElementById("link"+l4).href = 'https://blockfi.com/November28-ClientUpdate'
