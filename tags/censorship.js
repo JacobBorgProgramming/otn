@@ -1,12 +1,12 @@
 function censorship(){
     /* censorship 1 */
 
-    document.getElementById("cctitle1").innerHTML = 'YouTube fact checks World Government Summit video on NWO.'
-    document.getElementById("cccontent1").innerHTML = 'YouTube puts fact check from Wikipedia calling NWO a "conspiracy theory," on a video from the World Government Summit titled: "Are We Ready for a New World Order?".'
-    document.getElementById("cccontent01").innerHTML = ''
-    document.getElementById("cclink1").innerHTML = 'See the video'
-    document.getElementById("cclink1").href = 'https://www.youtube.com/watch?v=CDDlWKSQvS8'
-    document.getElementById("cctime1").innerHTML = '11/26/22 10:55am MST'
+    document.getElementById("cctitle1").innerHTML = 'Twitter suspended enforcing its C19 anti-misinformation policies Nov 23rd, 2022.'
+    document.getElementById("cccontent1").innerHTML = 'Since Jan. 2020:'
+    document.getElementById("cccontent01").innerHTML = '11.72 accounts challenged; 11,230 accounts suspended; 97,674 content removed'
+    document.getElementById("cclink1").innerHTML = 'Read the Tweet'
+    document.getElementById("cclink1").href = 'https://twitter.com/openteanews/status/1597490555134410752'
+    document.getElementById("cctime1").innerHTML = '11/29/22 12:42pm MST'
 
     /* censorship 2 */
 
