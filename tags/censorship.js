@@ -10,7 +10,7 @@ function censorship(){
 
     /* censorship 2 */
 
-    document.getElementById("cctitle11").innerHTML = '"Elon Musk:'
+    document.getElementById("cctitle11").innerHTML = 'Elon Musk:'
     document.getElementById("cccontent11").innerHTML = '"Apple has also threatened to withhold Twitter from its App Store, but won’t tell us why"'
     document.getElementById("cccontent011").innerHTML = ''
     document.getElementById("cclink11").innerHTML = 'Read the Tweet'
