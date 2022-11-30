@@ -1,6 +1,22 @@
 function latest(){
 
-    var l5 = "1"
+    var l1 = "1"
+    document.getElementById("title"+l1).innerHTML = 'Former DC Corrections officer charged for use of unreasonable force.'
+    document.getElementById("content"+l1).innerHTML = 'The incident resulted in a handcuffed inmate being injured by the former officer.'
+    document.getElementById("content0"+l1).innerHTML = ''
+    document.getElementById("link"+l1).innerHTML = 'Read the release'
+    document.getElementById("link"+l1).href = 'https://www.justice.gov/opa/pr/former-dc-corrections-officer-charged-federal-civil-rights-violation-assaulting-handcuffed'
+    document.getElementById("time"+l1).innerHTML = '11/30/22 10:29am MST'
+    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/78'
+
+    document.getElementById("rlink"+l1).innerHTML = ''
+    document.getElementById("rlink"+l1).href = ''
+
+    document.getElementById("rlink0"+l1).innerHTML = ''
+    document.getElementById("rlink0"+l1).href = ''
+
+
+    var l5 = "11"
     document.getElementById("title"+l5).innerHTML = 'Red Cross opens shelters on the Big Island in response to the eruption of Mauna Loa.'
     document.getElementById("content"+l5).innerHTML = ''
     document.getElementById("content0"+l5).innerHTML = ''
@@ -16,7 +32,7 @@ function latest(){
     document.getElementById("rlink0"+l5).href = ''
 
 
-    var l4 = "11"
+    var l4 = "111"
     document.getElementById("title"+l4).innerHTML = 'BlockFi files voluntary chapter 11.'
     document.getElementById("content"+l4).innerHTML = 'The crypto company announced its chapter 11 filing just 17 days after FTX, a crypto exchange, filed for chapter 11.'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -31,7 +47,7 @@ function latest(){
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = ''
 
-var l3 = "111"
+var l3 = "1111"
     document.getElementById("title"+l3).innerHTML = 'Protests break out in Beijing, per Election Wizard.'
     document.getElementById("content"+l3).innerHTML = ''
     document.getElementById("content0"+l3).innerHTML = ''
@@ -48,7 +64,7 @@ var l3 = "111"
 
 
 
-    var l2 = "1111"
+    var l2 = "11111"
     document.getElementById("title"+l2).innerHTML = 'Censorship Monitor:'
     document.getElementById("content"+l2).innerHTML = 'YouTube puts fact check from Wikipedia calling NWO a "conspiracy theory," on a video from the World Government Summit titled: "Are We Ready for a New World Order?".'
     document.getElementById("content0"+l2).innerHTML = ''
@@ -64,21 +80,7 @@ var l3 = "111"
     document.getElementById("rlink0"+l2).href = ''
 
     
-   var l1 = "11111"
-    document.getElementById("title"+l1).innerHTML = '“FCC Bans Authorizations for Devices That Pose National Security Threat”'
-    document.getElementById("content"+l1).innerHTML = 'Includes: Huawei & ZTE “(and that of their subsidiaries and affiliates)”'
-    document.getElementById("content0"+l1).innerHTML = ''
-    document.getElementById("link"+l1).innerHTML = 'Read the release'
-    document.getElementById("link"+l1).href = 'https://www.fcc.gov/document/fcc-bans-authorizations-devices-pose-national-security-threat'
-    document.getElementById("time"+l1).innerHTML = '11/26/22 10:55am MST'
-    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/61'
-
-    document.getElementById("rlink"+l1).innerHTML = ''
-    document.getElementById("rlink"+l1).href = ''
-
-    document.getElementById("rlink0"+l1).innerHTML = ''
-    document.getElementById("rlink0"+l1).href = ''
-
+ 
 
 
 
