@@ -1,6 +1,21 @@
 function latest(){
 
-    var l2 = "1"
+    var l3 = "1"
+    document.getElementById("title"+l3).innerHTML = 'The Parler/YE deal has been terminated.'
+    document.getElementById("content"+l3).innerHTML = 'In October, YE (Formally Kanye West) agreed to purchase Parlement Technologies, the parent company of the Parler social platform.'
+    document.getElementById("content0"+l3).innerHTML = ''
+    document.getElementById("link"+l3).innerHTML = 'See the Tweet'
+    document.getElementById("link"+l3).href = 'https://twitter.com/parler_app/status/1598422341553364993'
+    document.getElementById("time"+l3).innerHTML = '12/1/22 5:30pm MST'
+    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/81'
+
+    document.getElementById("rlink"+l3).innerHTML = ''
+     document.getElementById("rlink"+l3).href = ''
+
+    document.getElementById("rlink0"+l3).innerHTML = ''
+    document.getElementById("rlink0"+l3).href = ''
+
+    var l2 = "11"
     document.getElementById("title"+l2).innerHTML = 'Elon Musk says that Twitter has interfered in elections.'
     document.getElementById("content"+l2).innerHTML = '"Exactly. The obvious reality, as long-time users know, is that Twitter has failed in trust & safety for a very long time and has interfered in elections. <p>Twitter 2.0 will be far more effective, transparent and even-handed."</p>'
     document.getElementById("content0"+l2).innerHTML = '-Elon Musk via Twitter'
@@ -15,7 +30,7 @@ function latest(){
     document.getElementById("rlink0"+l2).innerHTML = ''
     document.getElementById("rlink0"+l2).href = ''
 
-    var l1 = "11"
+    var l1 = "111"
     document.getElementById("title"+l1).innerHTML = 'Former DC Corrections officer charged for use of unreasonable force.'
     document.getElementById("content"+l1).innerHTML = 'The incident resulted in a handcuffed inmate being injured by the former officer.'
     document.getElementById("content0"+l1).innerHTML = ''
@@ -31,7 +46,7 @@ function latest(){
     document.getElementById("rlink0"+l1).href = ''
 
 
-    var l5 = "111"
+    var l5 = "1111"
     document.getElementById("title"+l5).innerHTML = 'Red Cross opens shelters on the Big Island in response to the eruption of Mauna Loa.'
     document.getElementById("content"+l5).innerHTML = ''
     document.getElementById("content0"+l5).innerHTML = ''
@@ -47,7 +62,7 @@ function latest(){
     document.getElementById("rlink0"+l5).href = ''
 
 
-    var l4 = "1111"
+    var l4 = "11111"
     document.getElementById("title"+l4).innerHTML = 'BlockFi files voluntary chapter 11.'
     document.getElementById("content"+l4).innerHTML = 'The crypto company announced its chapter 11 filing just 17 days after FTX, a crypto exchange, filed for chapter 11.'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -62,38 +77,7 @@ function latest(){
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = ''
 
-var l3 = "11111"
-    document.getElementById("title"+l3).innerHTML = 'Protests break out in Beijing, per Election Wizard.'
-    document.getElementById("content"+l3).innerHTML = ''
-    document.getElementById("content0"+l3).innerHTML = ''
-    document.getElementById("link"+l3).innerHTML = 'See the Tweet'
-    document.getElementById("link"+l3).href = 'https://twitter.com/electionwiz/status/1596939632994062337?s=46&t=OT3dYBg3-bY3CIW8n2mGxg'
-    document.getElementById("time"+l3).innerHTML = '11/27/22 11:58am MST'
-    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/63'
 
-    document.getElementById("rlink"+l3).innerHTML = 'See the latest from Disclose.tv'
-     document.getElementById("rlink"+l3).href = 'https://twitter.com/disclosetv/status/1596822446643953664?s=46&t=OT3dYBg3-bY3CIW8n2mGxg'
-
-    document.getElementById("rlink0"+l3).innerHTML = ''
-    document.getElementById("rlink0"+l3).href = ''
-
-
-
-
-    
- 
-
-
-
-    
-    
     /*https://tea.borgcreative.com/tags/telegram1.html */
-
-
-
-    
-   
-
-
 }
 
