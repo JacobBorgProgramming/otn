@@ -7,7 +7,7 @@ function latest(){
     document.getElementById("link"+l4).innerHTML = 'Read the Tweet Thread'
     document.getElementById("link"+l4).href = 'https://twitter.com/mtaibbi/status/1598822959866683394'
     document.getElementById("time"+l4).innerHTML = '12/2/22 11:36pm MST'
-    document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/71'
+    document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/88'
 
     document.getElementById("rlink"+l4).innerHTML = 'Read our Archive'
     document.getElementById("rlink"+l4).href = 'https://www.openteanews.com/archive/twitterfiles1.txt'
