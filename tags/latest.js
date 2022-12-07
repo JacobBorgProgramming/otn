@@ -6,7 +6,22 @@ function latest(){
     var article = 'Read the article <svg class="icon icon-tabler icon-tabler-external-link" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5"></path><line x1="10" y1="14" x2="20" y2="4"></line><polyline points="15 4 20 4 20 9"></polyline></svg>'
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
 
-    var l1 = "1"
+    var l2 = "1"
+    document.getElementById("title"+l2).innerHTML = 'Kevin McCarthy (R) has released a plan for oversight and accountability.'
+    document.getElementById("content"+l2).innerHTML = ''
+    document.getElementById("content0"+l2).innerHTML = ''
+    document.getElementById("link"+l2).innerHTML = article
+    document.getElementById("link"+l2).href = 'https://republicanleader.house.gov/oversight-in-the-118th-congress/'
+    document.getElementById("time"+l2).innerHTML = '12/7/22 12:32pm MST'
+    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/97'
+
+    document.getElementById("rlink"+l2).innerHTML = ''
+    document.getElementById("rlink"+l2).href = ''
+
+    document.getElementById("rlink0"+l2).innerHTML = ''
+    document.getElementById("rlink0"+l2).href = ''
+
+    var l1 = "11"
     document.getElementById("title"+l1).innerHTML = 'Time Magazine names Volodymyr Zelensky, the president of Ukraine, "Person of the Year."'
     document.getElementById("content"+l1).innerHTML = ''
     document.getElementById("content0"+l1).innerHTML = ''
@@ -22,7 +37,7 @@ function latest(){
     document.getElementById("rlink0"+l1).href = ''
 
     
-    var l5 = "11"
+    var l5 = "111"
     document.getElementById("title"+l5).innerHTML = 'Elon Musk considers the possibility that Twitter may have interfered in the 2022 election in Brazil.'
     document.getElementById("content"+l5).innerHTML = ''
     document.getElementById("content0"+l5).innerHTML = ''
@@ -38,7 +53,7 @@ function latest(){
     document.getElementById("rlink0"+l5).href = ''
 
 
-    var l4 = "111"
+    var l4 = "1111"
     document.getElementById("title"+l4).innerHTML = 'Twitter Files part 1'
     document.getElementById("content"+l4).innerHTML = 'Today Twitter released information about Twitter censorship and the Hunter Biden laptop story.'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -53,7 +68,7 @@ function latest(){
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = ''
 
-    var l3 = "1111"
+    var l3 = "11111"
     document.getElementById("title"+l3).innerHTML = 'The Parler/YE deal has been terminated.'
     document.getElementById("content"+l3).innerHTML = 'In October, YE (Formally Kanye West) agreed to purchase Parlement Technologies, the parent company of the Parler social platform.'
     document.getElementById("content0"+l3).innerHTML = ''
@@ -67,21 +82,6 @@ function latest(){
 
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
-
-    var l2 = "11111"
-    document.getElementById("title"+l2).innerHTML = 'Elon Musk says that Twitter has interfered in elections.'
-    document.getElementById("content"+l2).innerHTML = '"Exactly. The obvious reality, as long-time users know, is that Twitter has failed in trust & safety for a very long time and has interfered in elections. <p>Twitter 2.0 will be far more effective, transparent and even-handed."</p>'
-    document.getElementById("content0"+l2).innerHTML = '-Elon Musk via Twitter'
-    document.getElementById("link"+l2).innerHTML = tweet
-    document.getElementById("link"+l2).href = 'https://twitter.com/elonmusk/status/1598004480066621441?s=20&t=lEtETTL0_6c3-2n_reJB2w'
-    document.getElementById("time"+l2).innerHTML = '11/30/22 10:39am MST'
-    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/79'
-
-    document.getElementById("rlink"+l2).innerHTML = ''
-    document.getElementById("rlink"+l2).href = ''
-
-    document.getElementById("rlink0"+l2).innerHTML = ''
-    document.getElementById("rlink0"+l2).href = ''
 
     /*https://tea.borgcreative.com/tags/telegram1.html */
 }
