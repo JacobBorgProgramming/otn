@@ -13,7 +13,7 @@ function latest(){
     document.getElementById("link"+l2).innerHTML = article
     document.getElementById("link"+l2).href = 'https://republicanleader.house.gov/oversight-in-the-118th-congress/'
     document.getElementById("time"+l2).innerHTML = '12/7/22 12:32pm MST'
-    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/97'
+    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/101'
 
     document.getElementById("rlink"+l2).innerHTML = ''
     document.getElementById("rlink"+l2).href = ''
@@ -28,7 +28,7 @@ function latest(){
     document.getElementById("link"+l1).innerHTML = article
     document.getElementById("link"+l1).href = 'https://time.com/person-of-the-year-2022-volodymyr-zelensky/'
     document.getElementById("time"+l1).innerHTML = '12/7/22 12:12pm MST'
-    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/96'
+    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/100'
 
     document.getElementById("rlink"+l1).innerHTML = tweet
     document.getElementById("rlink"+l1).href = 'https://twitter.com/TIME/status/1600470652363866113'
