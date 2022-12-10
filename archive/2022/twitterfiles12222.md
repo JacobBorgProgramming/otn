@@ -37,11 +37,13 @@ https://pbs.twimg.com/media/FjAuD6eWAAEFiXY?format=jpg&name=medium
 
  10.Both parties had access to these tools. For instance, in 2020, requests from both the Trump White House and the Biden campaign were received and honored. However:
 
- 11. This system wasn't balanced. It was based on contacts. Because Twitter was and is overwhelmingly staffed by people of one political orientation, there were more channels, more ways to complain, open to the left (well, Democrats) than the right.
+
+11.  This system wasn't balanced. It was based on contacts. Because Twitter was and is overwhelmingly staffed by people of one political orientation, there were more channels, more ways to complain, open to the left (well, Democrats) than the right.
 https://www.opensecrets.org/orgs/twitter/summary?id=D000067113
 https://pbs.twimg.com/media/FjAuzYgWQAIspZ0?format=png&name=medium
 
- 12. The resulting slant in content moderation decisions is visible in the documents you’re about to read. However, it’s also the assessment of multiple current and former high-level executives.
+
+12.  The resulting slant in content moderation decisions is visible in the documents you’re about to read. However, it’s also the assessment of multiple current and former high-level executives.
 
 Okay, there was more throat-clearing about the process, but screw it, let's jump forward
 
