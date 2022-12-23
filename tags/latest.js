@@ -7,7 +7,22 @@ function latest(){
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     
     
-    var l3 = "1"
+   var l4 = "1"
+    document.getElementById("title"+l4).innerHTML = 'Texas Gov. Greg Abbott:'
+    document.getElementById("content"+l4).innerHTML = '"The Texas National Guard is doing the federal government’s job at our border. They’re working around the clock to stop illegal crossings into Texas, including on Christmas Day."'
+    document.getElementById("content0"+l4).innerHTML = ''
+    document.getElementById("link"+l4).innerHTML = tweet
+    document.getElementById("link"+l4).href = 'https://twitter.com/gregabbott_tx/status/1606346039585255424?s=46&t=0QKfx8aSmvRinyz4GnEm1w'
+    document.getElementById("time"+l4).innerHTML = '12/23/22 2:43pm MST'
+    document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/109'
+
+    document.getElementById("rlink"+l4).innerHTML = ''
+    document.getElementById("rlink"+l4).href = ''
+
+    document.getElementById("rlink0"+l4).innerHTML = ''
+    document.getElementById("rlink0"+l4).href = '' 
+    
+    var l3 = "11"
     document.getElementById("title"+l3).innerHTML = 'House Ethics Committee opens investigation into Rep. AOC.'
     document.getElementById("content"+l3).innerHTML = ''
     document.getElementById("content0"+l3).innerHTML = ''
@@ -22,7 +37,7 @@ function latest(){
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
 
-    var l2 = "11"
+    var l2 = "111"
     document.getElementById("title"+l2).innerHTML = 'Kevin McCarthy (R) has released a plan for oversight and accountability.'
     document.getElementById("content"+l2).innerHTML = ''
     document.getElementById("content0"+l2).innerHTML = ''
@@ -37,7 +52,7 @@ function latest(){
     document.getElementById("rlink0"+l2).innerHTML = ''
     document.getElementById("rlink0"+l2).href = ''
 
-    var l1 = "111"
+    var l1 = "1111"
     document.getElementById("title"+l1).innerHTML = 'Time Magazine names Volodymyr Zelensky, the president of Ukraine, "Person of the Year."'
     document.getElementById("content"+l1).innerHTML = ''
     document.getElementById("content0"+l1).innerHTML = ''
@@ -53,7 +68,7 @@ function latest(){
     document.getElementById("rlink0"+l1).href = ''
 
     
-    var l5 = "1111"
+    var l5 = "11111"
     document.getElementById("title"+l5).innerHTML = 'Elon Musk considers the possibility that Twitter may have interfered in the 2022 election in Brazil.'
     document.getElementById("content"+l5).innerHTML = ''
     document.getElementById("content0"+l5).innerHTML = ''
@@ -69,20 +84,7 @@ function latest(){
     document.getElementById("rlink0"+l5).href = ''
 
 
-    var l4 = "11111"
-    document.getElementById("title"+l4).innerHTML = 'Twitter Files part 1'
-    document.getElementById("content"+l4).innerHTML = 'Today Twitter released information about Twitter censorship and the Hunter Biden laptop story.'
-    document.getElementById("content0"+l4).innerHTML = ''
-    document.getElementById("link"+l4).innerHTML = tweet + ' Thread'
-    document.getElementById("link"+l4).href = 'https://twitter.com/mtaibbi/status/1598822959866683394'
-    document.getElementById("time"+l4).innerHTML = '12/2/22 11:36pm MST'
-    document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/90'
-
-    document.getElementById("rlink"+l4).innerHTML = 'Read our Archive'
-    document.getElementById("rlink"+l4).href = 'https://www.openteanews.com/archive/twitterfiles1.txt'
-
-    document.getElementById("rlink0"+l4).innerHTML = ''
-    document.getElementById("rlink0"+l4).href = ''
+    
 
     /*https://tea.borgcreative.com/tags/telegram1.html */
 }
