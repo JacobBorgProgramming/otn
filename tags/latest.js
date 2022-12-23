@@ -13,7 +13,7 @@ function latest(){
     document.getElementById("link"+l1).innerHTML = release
     document.getElementById("link"+l1).href = 'https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/'
     document.getElementById("time"+l1).innerHTML = '12/23/22 3:38pm MST'
-    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/111'
+    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/113'
 
     document.getElementById("rlink"+l1).innerHTML = ''
     document.getElementById("rlink"+l1).href = ''
