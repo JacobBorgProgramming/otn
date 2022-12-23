@@ -6,8 +6,23 @@ function latest(){
     var article = 'Read the article <svg class="icon icon-tabler icon-tabler-external-link" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5"></path><line x1="10" y1="14" x2="20" y2="4"></line><polyline points="15 4 20 4 20 9"></polyline></svg>'
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     
+    var l5 = "1"
+    document.getElementById("title"+l5).innerHTML = 'Narcotrafficker pleads guilty'
+    document.getElementById("content"+l5).innerHTML = 'Gerado Gonzalez-Valencia pleaded guilty to international cocaine trafficking.'
+    document.getElementById("content0"+l5).innerHTML = ''
+    document.getElementById("link"+l5).innerHTML = release
+    document.getElementById("link"+l5).href = 'https://www.justice.gov/opa/pr/narcotrafficker-pleads-guilty-international-cocaine-trafficking-conspiracy'
+    document.getElementById("time"+l5).innerHTML = '12/23/22 3:06pm MST'
+    document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/110'
+
+    document.getElementById("rlink"+l5).innerHTML = ''
+    document.getElementById("rlink"+l5).href = ''
+
+    document.getElementById("rlink0"+l5).innerHTML = ''
+    document.getElementById("rlink0"+l5).href = ''
+
     
-   var l4 = "1"
+   var l4 = "11"
     document.getElementById("title"+l4).innerHTML = 'Texas Gov. Greg Abbott:'
     document.getElementById("content"+l4).innerHTML = '"The Texas National Guard is doing the federal government’s job at our border. They’re working around the clock to stop illegal crossings into Texas, including on Christmas Day."'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -22,7 +37,7 @@ function latest(){
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = '' 
     
-    var l3 = "11"
+    var l3 = "111"
     document.getElementById("title"+l3).innerHTML = 'House Ethics Committee opens investigation into Rep. AOC.'
     document.getElementById("content"+l3).innerHTML = ''
     document.getElementById("content0"+l3).innerHTML = ''
@@ -37,7 +52,7 @@ function latest(){
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
 
-    var l2 = "111"
+    var l2 = "1111"
     document.getElementById("title"+l2).innerHTML = 'Kevin McCarthy (R) has released a plan for oversight and accountability.'
     document.getElementById("content"+l2).innerHTML = ''
     document.getElementById("content0"+l2).innerHTML = ''
@@ -52,7 +67,7 @@ function latest(){
     document.getElementById("rlink0"+l2).innerHTML = ''
     document.getElementById("rlink0"+l2).href = ''
 
-    var l1 = "1111"
+    var l1 = "11111"
     document.getElementById("title"+l1).innerHTML = 'Time Magazine names Volodymyr Zelensky, the president of Ukraine, "Person of the Year."'
     document.getElementById("content"+l1).innerHTML = ''
     document.getElementById("content0"+l1).innerHTML = ''
@@ -66,23 +81,6 @@ function latest(){
 
     document.getElementById("rlink0"+l1).innerHTML = ''
     document.getElementById("rlink0"+l1).href = ''
-
-    
-    var l5 = "11111"
-    document.getElementById("title"+l5).innerHTML = 'Elon Musk considers the possibility that Twitter may have interfered in the 2022 election in Brazil.'
-    document.getElementById("content"+l5).innerHTML = ''
-    document.getElementById("content0"+l5).innerHTML = ''
-    document.getElementById("link"+l5).innerHTML = tweet
-    document.getElementById("link"+l5).href = 'https://twitter.com/elonmusk/status/1598990820665065472?s=20&t=KcI5YTYYT7M_NPY3td5qPg'
-    document.getElementById("time"+l5).innerHTML = '12/3/22 2:57pm MST'
-    document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/91'
-
-    document.getElementById("rlink"+l5).innerHTML = ''
-    document.getElementById("rlink"+l5).href = ''
-
-    document.getElementById("rlink0"+l5).innerHTML = ''
-    document.getElementById("rlink0"+l5).href = ''
-
 
     
 
