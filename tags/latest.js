@@ -6,7 +6,23 @@ function latest(){
     var article = 'Read the article <svg class="icon icon-tabler icon-tabler-external-link" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5"></path><line x1="10" y1="14" x2="20" y2="4"></line><polyline points="15 4 20 4 20 9"></polyline></svg>'
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     
-    var l1 = "1"
+    var l2 = "1"
+    document.getElementById("title"+l2).innerHTML = 'Luke 2:1-20 NLT'
+    document.getElementById("content"+l2).innerHTML = 'At that time the Roman emperor, Augustus, decreed that a census should be taken throughout the Roman Empire. (This was the first census taken when Quirinius was governor of Syria.) All returned to their own ancestral towns to register for this census. And because Joseph was a descendant of King David, he had to go to Bethlehem in Judea, Davids ancient home. He traveled there from the village of Nazareth in Galilee. He took with him Mary, his fiancée, who was now obviously pregnant. And while they were there, the time came for her baby to be born. She gave birth to her first child, a son. She wrapped him snugly in strips of cloth and laid him in a manger, because there was no lodging available for them. That night there were shepherds staying in the fields nearby, guarding their flocks of sheep. Suddenly, an angel of the Lord appeared among them, and the radiance of the Lords glory surrounded them. They were terrified, but the angel reassured them. "Dont be afraid!" he said. "I bring you good news that will bring great joy to all people. The Savior--yes, the Messiah, the Lord--has been born today in Bethlehem, the city of David! And you will recognize him by this sign: You will find a baby wrapped snugly in strips of cloth, lying in a manger." Suddenly, the angel was joined by a vast host of others--the armies of heaven--praising God and saying, "Glory to God in highest heaven, and peace on earth to those with whom God is pleased." When the angels had returned to heaven, the shepherds said to each other, "Lets go to Bethlehem! Lets see this thing that has happened, which the Lord has told us about." They hurried to the village and found Mary and Joseph. And there was the baby, lying in the manger. After seeing him, the shepherds told everyone what had happened and what the angel had said to them about this child. All who heard the shepherds story were astonished, but Mary kept all these things in her heart and thought about them often. The shepherds went back to their flocks, glorifying and praising God for all they had heard and seen. It was just as the angel had told them.'
+    document.getElementById("content0"+l2).innerHTML = ''
+    document.getElementById("link"+l2).innerHTML = 'Read the passage'
+    document.getElementById("link"+l2).href = 'https://www.blueletterbible.org/nlt/luk/2/1-20/s_975001'
+    document.getElementById("time"+l2).innerHTML = '12/25/22 8:44am MST'
+    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/117'
+
+    document.getElementById("rlink"+l2).innerHTML = ''
+    document.getElementById("rlink"+l2).href = ''
+
+    document.getElementById("rlink0"+l2).innerHTML = ''
+    document.getElementById("rlink0"+l2).href = ''
+
+
+    var l1 = "11"
     document.getElementById("title"+l1).innerHTML = 'LastPass password management service experiences "security incident".'
     document.getElementById("content"+l1).innerHTML = '"Based on our investigation to date, we have learned that an unknown threat actor accessed a cloud-based storage environment leveraging information obtained from the incident we previously disclosed in August of 2022. While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service." <p>...</p>'
     document.getElementById("content0"+l1).innerHTML = '-Excerpt from the statement from LastPass. <p>Read the full statement below.</p>'
@@ -21,7 +37,7 @@ function latest(){
     document.getElementById("rlink0"+l1).innerHTML = ''
     document.getElementById("rlink0"+l1).href = ''
 
-    var l5 = "11"
+    var l5 = "111"
     document.getElementById("title"+l5).innerHTML = 'Narcotrafficker pleads guilty'
     document.getElementById("content"+l5).innerHTML = 'Gerado Gonzalez-Valencia pleaded guilty to international cocaine trafficking.'
     document.getElementById("content0"+l5).innerHTML = ''
@@ -37,7 +53,7 @@ function latest(){
     document.getElementById("rlink0"+l5).href = ''
 
     
-   var l4 = "111"
+   var l4 = "1111"
     document.getElementById("title"+l4).innerHTML = 'Texas Gov. Greg Abbott:'
     document.getElementById("content"+l4).innerHTML = '"The Texas National Guard is doing the federal government’s job at our border. They’re working around the clock to stop illegal crossings into Texas, including on Christmas Day."'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -52,7 +68,7 @@ function latest(){
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = '' 
     
-    var l3 = "1111"
+    var l3 = "11111"
     document.getElementById("title"+l3).innerHTML = 'House Ethics Committee opens investigation into Rep. AOC.'
     document.getElementById("content"+l3).innerHTML = ''
     document.getElementById("content0"+l3).innerHTML = ''
@@ -67,20 +83,6 @@ function latest(){
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
 
-    var l2 = "11111"
-    document.getElementById("title"+l2).innerHTML = 'Kevin McCarthy (R) has released a plan for oversight and accountability.'
-    document.getElementById("content"+l2).innerHTML = ''
-    document.getElementById("content0"+l2).innerHTML = ''
-    document.getElementById("link"+l2).innerHTML = article
-    document.getElementById("link"+l2).href = 'https://republicanleader.house.gov/oversight-in-the-118th-congress/'
-    document.getElementById("time"+l2).innerHTML = '12/7/22 12:32pm MST'
-    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/101'
-
-    document.getElementById("rlink"+l2).innerHTML = ''
-    document.getElementById("rlink"+l2).href = ''
-
-    document.getElementById("rlink0"+l2).innerHTML = ''
-    document.getElementById("rlink0"+l2).href = ''
 
     
 
