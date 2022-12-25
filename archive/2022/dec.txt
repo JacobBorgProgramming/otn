@@ -65,3 +65,24 @@ https://twitter.com/gregabbott_tx/status/1606346039585255424?s=46&t=0QKfx8aSmvRi
 
 12/23/22 2:43pm MST
 - - -
+
+Narcotrafficker pleads guilty
+Gerado Gonzalez-Valencia pleaded guilty to international cocaine trafficking.
+Read the release 
+https://www.justice.gov/opa/pr/narcotrafficker-pleads-guilty-international-cocaine-trafficking-conspiracy
+
+12/23/22 3:06pm MST
+- - -
+
+LastPass password management service experiences "security incident".
+"Based on our investigation to date, we have learned that an unknown threat actor accessed a cloud-based storage environment leveraging information obtained from the incident we previously disclosed in August of 2022. While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service."
+...
+
+-Excerpt from the statement from LastPass.
+Read the full statement below.
+
+Read the release 
+https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/
+
+12/23/22 3:38pm MST
+- - -
