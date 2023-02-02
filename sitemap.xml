@@ -55,6 +55,12 @@
         <loc>/archive/</loc>
     </url>
     <url>
+        <loc>/data/economy/404.html</loc>
+    </url>
+    <url>
+        <loc>/data/economy/economytracker.html</loc>
+    </url>
+    <url>
         <loc>/data/education/404.html</loc>
     </url>
     <url>
@@ -68,6 +74,9 @@
     </url>
     <url>
         <loc>/data/404.html</loc>
+    </url>
+    <url>
+        <loc>/data/economy.html</loc>
     </url>
     <url>
         <loc>/data/education.html</loc>
