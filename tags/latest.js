@@ -6,7 +6,24 @@ function latest(){
     var article = 'Read the article <svg class="icon icon-tabler icon-tabler-external-link" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5"></path><line x1="10" y1="14" x2="20" y2="4"></line><polyline points="15 4 20 4 20 9"></polyline></svg>'
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     
-    var l5 = "1"
+    var l1 = "1"
+    document.getElementById("title"+l1).innerHTML = 'Per Disclose.tv: The Chinese spy balloon has been shot down. '
+    document.getElementById("content"+l1).innerHTML = '"Based on our investigation to date, we have learned that an unknown threat actor accessed a cloud-based storage environment leveraging information obtained from the incident we previously disclosed in August of 2022. While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service." <p>...</p>'
+    document.getElementById("content0"+l1).innerHTML = '-Excerpt from the statement from LastPass. <p>Read the full statement below.</p>'
+    document.getElementById("link"+l1).innerHTML = tweet
+    document.getElementById("link"+l1).href = 'https://twitter.com/disclosetv/status/1621957515427577865?s=20'
+    document.getElementById("time"+l1).innerHTML = '2/4/23 1:06pm MST'
+    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/159'
+
+    document.getElementById("rlink"+l1).innerHTML = ''
+    document.getElementById("rlink"+l1).href = ''
+
+    document.getElementById("rlink0"+l1).innerHTML = ''
+    document.getElementById("rlink0"+l1).href = ''
+
+
+
+    var l5 = "11"
     document.getElementById("title"+l5).innerHTML = 'Chinese High-Altitude Surveillance Balloon in US airspace. '
     document.getElementById("content"+l5).innerHTML = 'US officials have decided not to use "kinetic force" against the balloon due to concern for civilian safety.'
     document.getElementById("content0"+l5).innerHTML = ''
@@ -21,7 +38,7 @@ function latest(){
     document.getElementById("rlink0"+l5).innerHTML = ''
     document.getElementById("rlink0"+l5).href = ''
 
-       var l4 = "11"
+       var l4 = "111"
     document.getElementById("title"+l4).innerHTML = '"Project Veritas (Via Twitter)"'
     document.getElementById("content"+l4).innerHTML = '"BREAKING: @Pfizer Exploring "Mutating" COVID-19 Virus For New Vaccines"'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -37,7 +54,7 @@ function latest(){
     document.getElementById("rlink0"+l4).href = '' 
     
 
-    var l3 = "111"
+    var l3 = "1111"
     document.getElementById("title"+l3).innerHTML = 'Economy Woes effecting food prices'
     document.getElementById("content"+l3).innerHTML = 'National average cost of eggs (City) Nov 2022: $3.589'
     document.getElementById("content0"+l3).innerHTML = 'National average cost of eggs (City) Nov 2021: $1.718'
@@ -52,7 +69,7 @@ function latest(){
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
 
-    var l2 = "1111"
+    var l2 = "11111"
     document.getElementById("title"+l2).innerHTML = 'Luke 2:1-20 NLT'
     document.getElementById("content"+l2).innerHTML = 'At that time the Roman emperor, Augustus, decreed that a census should be taken throughout the Roman Empire. (This was the first census taken when Quirinius was governor of Syria.) <p>All returned to their own ancestral towns to register for this census. And because Joseph was a descendant of King David, he had to go to Bethlehem in Judea, Davids ancient home.</p><p> He traveled there from the village of Nazareth in Galilee. He took with him Mary, his fiancée, who was now obviously pregnant. </p><p> And while they were there, the time came for her baby to be born. She gave birth to her first child, a son. She wrapped him snugly in strips of cloth and laid him in a manger, because there was no lodging available for them. </p><p> That night there were shepherds staying in the fields nearby, guarding their flocks of sheep. </p><p> Suddenly, an angel of the Lord appeared among them, and the radiance of the Lords glory surrounded them. </p><p> They were terrified, but the angel reassured them. "Dont be afraid!" he said. "I bring you good news that will bring great joy to all people. The Savior--yes, the Messiah, the Lord--has been born today in Bethlehem, the city of David! And you will recognize him by this sign: You will find a baby wrapped snugly in strips of cloth, lying in a manger." </p><p> Suddenly, the angel was joined by a vast host of others--the armies of heaven--praising God and saying, "Glory to God in highest heaven, and peace on earth to those with whom God is pleased." </p><p> When the angels had returned to heaven, the shepherds said to each other, "Lets go to Bethlehem! Lets see this thing that has happened, which the Lord has told us about." </p><p> They hurried to the village and found Mary and Joseph. And there was the baby, lying in the manger. </p><p> After seeing him, the shepherds told everyone what had happened and what the angel had said to them about this child. </p><p> All who heard the shepherds story were astonished, but Mary kept all these things in her heart and thought about them often. </p><p> The shepherds went back to their flocks, glorifying and praising God for all they had heard and seen. </p><p> It was just as the angel had told them.'
     document.getElementById("content0"+l2).innerHTML = ''
@@ -67,21 +84,6 @@ function latest(){
     document.getElementById("rlink0"+l2).innerHTML = ''
     document.getElementById("rlink0"+l2).href = ''
 
-
-    var l1 = "11111"
-    document.getElementById("title"+l1).innerHTML = 'LastPass password management service experiences "security incident".'
-    document.getElementById("content"+l1).innerHTML = '"Based on our investigation to date, we have learned that an unknown threat actor accessed a cloud-based storage environment leveraging information obtained from the incident we previously disclosed in August of 2022. While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service." <p>...</p>'
-    document.getElementById("content0"+l1).innerHTML = '-Excerpt from the statement from LastPass. <p>Read the full statement below.</p>'
-    document.getElementById("link"+l1).innerHTML = release
-    document.getElementById("link"+l1).href = 'https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/'
-    document.getElementById("time"+l1).innerHTML = '12/23/22 3:38pm MST'
-    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/112'
-
-    document.getElementById("rlink"+l1).innerHTML = ''
-    document.getElementById("rlink"+l1).href = ''
-
-    document.getElementById("rlink0"+l1).innerHTML = ''
-    document.getElementById("rlink0"+l1).href = ''
 
 
     
