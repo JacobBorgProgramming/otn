@@ -84,21 +84,6 @@ function latest(){
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
 
-    var l2 = "11111"
-    document.getElementById("title"+l2).innerHTML = 'Luke 2:1-20 NLT'
-    document.getElementById("content"+l2).innerHTML = 'At that time the Roman emperor, Augustus, decreed that a census should be taken throughout the Roman Empire. (This was the first census taken when Quirinius was governor of Syria.) <p>All returned to their own ancestral towns to register for this census. And because Joseph was a descendant of King David, he had to go to Bethlehem in Judea, Davids ancient home.</p><p> He traveled there from the village of Nazareth in Galilee. He took with him Mary, his fiancée, who was now obviously pregnant. </p><p> And while they were there, the time came for her baby to be born. She gave birth to her first child, a son. She wrapped him snugly in strips of cloth and laid him in a manger, because there was no lodging available for them. </p><p> That night there were shepherds staying in the fields nearby, guarding their flocks of sheep. </p><p> Suddenly, an angel of the Lord appeared among them, and the radiance of the Lords glory surrounded them. </p><p> They were terrified, but the angel reassured them. "Dont be afraid!" he said. "I bring you good news that will bring great joy to all people. The Savior--yes, the Messiah, the Lord--has been born today in Bethlehem, the city of David! And you will recognize him by this sign: You will find a baby wrapped snugly in strips of cloth, lying in a manger." </p><p> Suddenly, the angel was joined by a vast host of others--the armies of heaven--praising God and saying, "Glory to God in highest heaven, and peace on earth to those with whom God is pleased." </p><p> When the angels had returned to heaven, the shepherds said to each other, "Lets go to Bethlehem! Lets see this thing that has happened, which the Lord has told us about." </p><p> They hurried to the village and found Mary and Joseph. And there was the baby, lying in the manger. </p><p> After seeing him, the shepherds told everyone what had happened and what the angel had said to them about this child. </p><p> All who heard the shepherds story were astonished, but Mary kept all these things in her heart and thought about them often. </p><p> The shepherds went back to their flocks, glorifying and praising God for all they had heard and seen. </p><p> It was just as the angel had told them.'
-    document.getElementById("content0"+l2).innerHTML = ''
-    document.getElementById("link"+l2).innerHTML = 'Read the passage'
-    document.getElementById("link"+l2).href = 'https://www.blueletterbible.org/nlt/luk/2/1-20/s_975001'
-    document.getElementById("time"+l2).innerHTML = '12/25/22 8:44am MST'
-    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/117'
-
-    document.getElementById("rlink"+l2).innerHTML = ''
-    document.getElementById("rlink"+l2).href = ''
-
-    document.getElementById("rlink0"+l2).innerHTML = ''
-    document.getElementById("rlink0"+l2).href = ''
-
 
 
     
