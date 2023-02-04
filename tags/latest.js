@@ -8,8 +8,8 @@ function latest(){
     
     var l1 = "1"
     document.getElementById("title"+l1).innerHTML = 'Per Disclose.tv: The Chinese spy balloon has been shot down. '
-    document.getElementById("content"+l1).innerHTML = '"Based on our investigation to date, we have learned that an unknown threat actor accessed a cloud-based storage environment leveraging information obtained from the incident we previously disclosed in August of 2022. While no customer data was accessed during the August 2022 incident, some source code and technical information were stolen from our development environment and used to target another employee, obtaining credentials and keys which were used to access and decrypt some storage volumes within the cloud-based storage service." <p>...</p>'
-    document.getElementById("content0"+l1).innerHTML = '-Excerpt from the statement from LastPass. <p>Read the full statement below.</p>'
+    document.getElementById("content"+l1).innerHTML = ''
+    document.getElementById("content0"+l1).innerHTML = ''
     document.getElementById("link"+l1).innerHTML = tweet
     document.getElementById("link"+l1).href = 'https://twitter.com/disclosetv/status/1621957515427577865?s=20'
     document.getElementById("time"+l1).innerHTML = '2/4/23 1:06pm MST'
