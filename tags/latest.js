@@ -12,11 +12,11 @@ function latest(){
     document.getElementById("content0"+l5).innerHTML = ''
     document.getElementById("link"+l5).innerHTML = release
     document.getElementById("link"+l5).href = 'https://www.defense.gov/News/News-Stories/Article/Article/3287177/us-tracking-high-altitude-surveillance-balloon/'
-    document.getElementById("time"+l5).innerHTML = '2/2/22 6:44pm MST'
+    document.getElementById("time"+l5).innerHTML = '2/2/23 6:44pm MST | Updated 2/3/23 5:54pm'
     document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/156'
 
-    document.getElementById("rlink"+l5).innerHTML = ''
-    document.getElementById("rlink"+l5).href = ''
+    document.getElementById("rlink"+l5).innerHTML = 'DOD Update: "General Says Chinese Surveillance Balloon Now Over Center of U.S."'
+    document.getElementById("rlink"+l5).href = 'https://www.defense.gov/News/News-Stories/Article/Article/3288103/general-says-chinese-surveillance-balloon-now-over-center-of-us/'
 
     document.getElementById("rlink0"+l5).innerHTML = ''
     document.getElementById("rlink0"+l5).href = ''
