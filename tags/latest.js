@@ -6,7 +6,22 @@ function latest(){
     var article = 'Read the article <svg class="icon icon-tabler icon-tabler-external-link" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5"></path><line x1="10" y1="14" x2="20" y2="4"></line><polyline points="15 4 20 4 20 9"></polyline></svg>'
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     
-    var l1 = "1"
+    var l2 = "1"
+    document.getElementById("title"+l2).innerHTML = 'DOD confirms that U.S. fighter aircraft shot down the high altitude surveillance balloon.'
+    document.getElementById("content"+l2).innerHTML = '<p>POTUS gave his orders on Wednesday to take action the moment it could be down without endangering any lives</p><p>The balloon was taken down off the coast of South Carolina in US airspace</p> '
+    document.getElementById("content0"+l2).innerHTML = ''
+    document.getElementById("link"+l2).innerHTML = release
+    document.getElementById("link"+l2).href = 'https://www.defense.gov/News/Releases/Release/Article/3288535/statement-from-secretary-of-defense-lloyd-j-austin-iii/'
+    document.getElementById("time"+l2).innerHTML = '2/4/22 1:55pm MST'
+    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/160'
+
+    document.getElementById("rlink"+l2).innerHTML = ''
+    document.getElementById("rlink"+l2).href = ''
+
+    document.getElementById("rlink0"+l2).innerHTML = ''
+    document.getElementById("rlink0"+l2).href = ''
+
+    var l1 = "11"
     document.getElementById("title"+l1).innerHTML = 'Per Disclose.tv: The Chinese spy balloon has been shot down. '
     document.getElementById("content"+l1).innerHTML = ''
     document.getElementById("content0"+l1).innerHTML = ''
@@ -23,7 +38,7 @@ function latest(){
 
 
 
-    var l5 = "11"
+    var l5 = "111"
     document.getElementById("title"+l5).innerHTML = 'Chinese High-Altitude Surveillance Balloon in US airspace. '
     document.getElementById("content"+l5).innerHTML = 'US officials have decided not to use "kinetic force" against the balloon due to concern for civilian safety.'
     document.getElementById("content0"+l5).innerHTML = ''
@@ -38,7 +53,7 @@ function latest(){
     document.getElementById("rlink0"+l5).innerHTML = ''
     document.getElementById("rlink0"+l5).href = ''
 
-       var l4 = "111"
+       var l4 = "1111"
     document.getElementById("title"+l4).innerHTML = '"Project Veritas (Via Twitter)"'
     document.getElementById("content"+l4).innerHTML = '"BREAKING: @Pfizer Exploring "Mutating" COVID-19 Virus For New Vaccines"'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -54,7 +69,7 @@ function latest(){
     document.getElementById("rlink0"+l4).href = '' 
     
 
-    var l3 = "1111"
+    var l3 = "11111"
     document.getElementById("title"+l3).innerHTML = 'Economy Woes effecting food prices'
     document.getElementById("content"+l3).innerHTML = 'National average cost of eggs (City) Nov 2022: $3.589'
     document.getElementById("content0"+l3).innerHTML = 'National average cost of eggs (City) Nov 2021: $1.718'
