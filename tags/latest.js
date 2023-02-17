@@ -13,7 +13,7 @@ function latest(){
     document.getElementById("link"+l3).innerHTML = tweet
     document.getElementById("link"+l3).href = 'https://twitter.com/GovMikeDeWine/status/1626248674383888384?s=20'
     document.getElementById("time"+l3).innerHTML = '2/16/23 5:23pm MST'
-    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/169'
+    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/170'
 
     document.getElementById("rlink"+l3).innerHTML = 'East Palestine Update - 2/16/23 1:15 p.m. (Ohio EMA)'
      document.getElementById("rlink"+l3).href = 'https://ema.ohio.gov/media-publications/news/east-palestine-update-021623-1315'
