@@ -8,8 +8,8 @@ function alert(){
 
 
     document.getElementById("acontent1").innerHTML = ''
-    document.getElementById("alink").innerHTML = ''
-    document.getElementById("alink").href = ''
+    document.getElementById("alink").innerHTML = 'East Palestine Train Derailment Information from Ohio EMA'
+    document.getElementById("alink").href = 'https://ema.ohio.gov/media-publications/020523-train-derailment'
 }
 
 /*
