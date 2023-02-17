@@ -7,9 +7,9 @@ function alert(){
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
 
 
-    document.getElementById("acontent1").innerHTML = 'Chinese High-Altitude Surveillance Balloon has been shot down. '
-    document.getElementById("alink").innerHTML = tweet
-    document.getElementById("alink").href = 'https://twitter.com/openteanews/status/1621963582694109185?s=20'
+    document.getElementById("acontent1").innerHTML = ''
+    document.getElementById("alink").innerHTML = ''
+    document.getElementById("alink").href = ''
 }
 
 /*

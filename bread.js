@@ -15,18 +15,22 @@ function bread(){
 
     console.log(doughball0, doughball1, doughball2, doughball3, doughball4, doughball5, doughball6, doughball7, doughball8)
 
-    var bag = document.getElementById("code").value
+    var bag = document.getElementById("pin").value
     console.log(bag)
+    var tie = document.getElementById("code").value
+    var tieoff1 = tie.charCodeAt(0);
+    var tieoff2 = tie.charCodeAt(1);
+    var tieoff3 = tie.charCodeAt(2);
 
-    var breadlineoven0 = doughball0 * bag;
-    var breadlineoven1 = doughball1 * bag;
-    var breadlineoven2 = doughball2 * bag;
-    var breadlineoven3 = doughball3 * bag;
-    var breadlineoven4 = doughball4 * bag;
-    var breadlineoven5 = doughball5 * bag;
-    var breadlineoven6 = doughball6 * bag;
-    var breadlineoven7 = doughball7 * bag;
-    var breadlineoven8 = doughball8 * bag;
+    var breadlineoven0 = doughball0 * bag * tieoff1;
+    var breadlineoven1 = doughball1 * bag * tieoff1;
+    var breadlineoven2 = doughball2 * bag * tieoff1;
+    var breadlineoven3 = doughball3 * bag * tieoff2;
+    var breadlineoven4 = doughball4 * bag * tieoff2;
+    var breadlineoven5 = doughball5 * bag * tieoff2;
+    var breadlineoven6 = doughball6 * bag * tieoff3;
+    var breadlineoven7 = doughball7 * bag * tieoff3;
+    var breadlineoven8 = doughball8 * bag * tieoff3;
 
 
     console.log("BreadLineBaker: ")
@@ -56,6 +60,7 @@ function bread(){
 }
 
 function debread(){
+
     var dedoughball0 = document.getElementById("debread0").value
     var dedoughball1 = document.getElementById("debread1").value
     var dedoughball2 = document.getElementById("debread2").value
@@ -68,19 +73,22 @@ function debread(){
 
 
     console.log(dedoughball0, dedoughball1, dedoughball2, dedoughball3, dedoughball4, dedoughball5, dedoughball6, dedoughball7, dedoughball8)
-
-    var bag = document.getElementById("code").value
+    var tie = document.getElementById("string1").value
+    var tieoff1 = tie.charCodeAt(0);
+    var tieoff2 = tie.charCodeAt(1);
+    var tieoff3 = tie.charCodeAt(2);
+    var bag = document.getElementById("pin1").value
     console.log(bag)
 
-    var breadlineoven0 = String.fromCharCode(dedoughball0 / bag);  
-    var breadlineoven1 = String.fromCharCode(dedoughball1 / bag);  
-    var breadlineoven2 = String.fromCharCode(dedoughball2 / bag);  
-    var breadlineoven3 = String.fromCharCode(dedoughball3 / bag);  
-    var breadlineoven4 = String.fromCharCode(dedoughball4 / bag); 
-    var breadlineoven5 = String.fromCharCode(dedoughball5 / bag); 
-    var breadlineoven6 = String.fromCharCode(dedoughball6 / bag); 
-    var breadlineoven7 = String.fromCharCode(dedoughball7 / bag); 
-    var breadlineoven8 = String.fromCharCode(dedoughball8 / bag); 
+    var breadlineoven0 = String.fromCharCode(dedoughball0 / bag / tieoff1);  
+    var breadlineoven1 = String.fromCharCode(dedoughball1 / bag / tieoff1);  
+    var breadlineoven2 = String.fromCharCode(dedoughball2 / bag / tieoff1);  
+    var breadlineoven3 = String.fromCharCode(dedoughball3 / bag / tieoff2);  
+    var breadlineoven4 = String.fromCharCode(dedoughball4 / bag / tieoff2); 
+    var breadlineoven5 = String.fromCharCode(dedoughball5 / bag / tieoff2); 
+    var breadlineoven6 = String.fromCharCode(dedoughball6 / bag / tieoff3); 
+    var breadlineoven7 = String.fromCharCode(dedoughball7 / bag / tieoff3); 
+    var breadlineoven8 = String.fromCharCode(dedoughball8 / bag / tieoff3); 
 
     
 
