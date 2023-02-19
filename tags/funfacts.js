@@ -10,9 +10,9 @@ function funfacts(){
 
     /* older 2 */
 
-    document.getElementById("fftitle2").innerHTML = 'The New York Stock Exchange'
-    document.getElementById("ffcontent3").innerHTML = '<p>The exchange was started in 1792.</p>'
-    document.getElementById("ffcontent4").innerHTML = '<p>The exchange began with just 24 stockbrokers and has evolved into one of the largest marketplaces for securities and investments.</p>'
+    document.getElementById("fftitle2").innerHTML = 'Open Tea News, originally Meme Tea News, is now one year old!'
+    document.getElementById("ffcontent3").innerHTML = '<p>The <a href="https://tea.borgcreative.com/" target="_blank">original website</a>, launched December 12th, 2021.</p>'
+    document.getElementById("ffcontent4").innerHTML = '<p>Since the original launch, we have made many technical improvements and added new features!</p>'
     document.getElementById("fflink2").innerHTML = ''
     document.getElementById("fflink2").href = ''
     document.getElementById("fftime2").innerHTML = ''
