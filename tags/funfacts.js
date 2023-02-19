@@ -1,8 +1,8 @@
 function funfacts(){
     /* older 1 */
 
-    document.getElementById("fftitle1").innerHTML = 'What type of government does the USA have?'
-    document.getElementById("ffcontent1").innerHTML = '<p>The USA has a "federal presidential constitutional republic."</p>'
+    document.getElementById("fftitle1").innerHTML = 'Article I, section 8, clause 17 of the Constitution'
+    document.getElementById("ffcontent1").innerHTML = '<p>"To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;"</p>'
     document.getElementById("ffcontent2").innerHTML = '<p></p>'
     document.getElementById("fflink1").innerHTML = ''
     document.getElementById("fflink1").href = ''
