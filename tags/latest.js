@@ -11,8 +11,8 @@ function latest(){
     document.getElementById("title"+l4).innerHTML = 'Ohio EPA releases latest water test results from East Palestine.'
     document.getElementById("content"+l4).innerHTML = ''
     document.getElementById("content0"+l4).innerHTML = ''
-    document.getElementById("link"+l4).innerHTML = tweet
-    document.getElementById("link"+l4).href = 'https://twitter.com/Project_Veritas/status/1618405890612420609'
+    document.getElementById("link"+l4).innerHTML = 
+    document.getElementById("link"+l4).href = ''
     document.getElementById("time"+l4).innerHTML = '2/20/22 2:45pm MST'
     document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/170'
 
