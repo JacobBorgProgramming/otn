@@ -104,3 +104,25 @@ function debread(){
     document.getElementById("deloaf8").innerHTML = breadlineoven8 
 
 }
+
+function cleantheoven(){
+
+
+
+    localStorage.clear();
+    document.getElementById("debread0").value = ' ' 
+    document.getElementById("debread1").value = ' '  
+    document.getElementById("debread2").value = ' '  
+    document.getElementById("debread3").value = ' '  
+    document.getElementById("debread4").value = ' '  
+    document.getElementById("debread5").value = ' ' 
+    document.getElementById("debread6").value = ' '  
+    document.getElementById("debread7").value = ' '  
+    document.getElementById("debread8").value = ' '  
+
+    document.getElementById("input").value = ''
+    document.getElementById("code").value = ''
+    document.getElementById("pin").value = ''
+
+
+}
