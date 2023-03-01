@@ -8,12 +8,12 @@ function censorship(){
 
     /* censorship 1 */
 
-    document.getElementById("cctitle1").innerHTML = 'The Twitter Files compiled'
-    document.getElementById("cccontent1").innerHTML = 'On November 28th, 2022, Twitter owner Elon Musk tweeted:'
-    document.getElementById("cccontent01").innerHTML = '"The Twitter Files on free speech suppression soon to be published on Twitter itself. The public deserves to know what really happened …"'
-    document.getElementById("cclink1").innerHTML = doc
-    document.getElementById("cclink1").href = 'https://www.openteanews.com/archive/2022/twitterfiles'
-    document.getElementById("cctime1").innerHTML = '12/10/22 11:49am MST'
+    document.getElementById("cctitle1").innerHTML = 'Lone Conservative via Twitter:'
+    document.getElementById("cccontent1").innerHTML = '"Twitter has suspended <a href="https://twitter.com/BasedMikeLee" target="_blank">@BasedMikeLee</a>, the account of sitting U.S. Senator from Utah Mike Lee"'
+    document.getElementById("cccontent01").innerHTML = ''
+    document.getElementById("cclink1").innerHTML = tweet
+    document.getElementById("cclink1").href = 'https://twitter.com/LoConservative/status/1630998575164342272'
+    document.getElementById("cctime1").innerHTML = '3/1/23 11:37am MST'
 
     /* censorship 2 */
 
