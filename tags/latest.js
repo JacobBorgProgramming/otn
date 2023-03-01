@@ -15,8 +15,8 @@ function latest(){
     document.getElementById("time"+l5).innerHTML = '3/1/23 11:00am MST'
     document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/173'
 
-    document.getElementById("rlink"+l5).innerHTML = 'DOD Update: "General Says Chinese Surveillance Balloon Now Over Center of U.S."'
-    document.getElementById("rlink"+l5).href = 'https://www.defense.gov/News/News-Stories/Article/Article/3288103/general-says-chinese-surveillance-balloon-now-over-center-of-us/'
+    document.getElementById("rlink"+l5).innerHTML = ''
+    document.getElementById("rlink"+l5).href = ''
 
     document.getElementById("rlink0"+l5).innerHTML = ''
     document.getElementById("rlink0"+l5).href = ''
