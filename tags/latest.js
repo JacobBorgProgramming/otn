@@ -8,7 +8,7 @@ function latest(){
     
     var l5 = "1"
     document.getElementById("title"+l5).innerHTML = '"Justice Department and EPA File Complaint Against Norfolk Southern for Unlawful Discharge of Pollutants and Hazardous Substances in East Palestine Derailment"'
-    document.getElementById("content"+l5).innerHTML = ''
+    document.getElementById("content"+l5).innerHTML = '-US Department of Justice'
     document.getElementById("content0"+l5).innerHTML = ''
     document.getElementById("link"+l5).innerHTML = release
     document.getElementById("link"+l5).href = 'https://www.justice.gov/opa/pr/justice-department-and-epa-file-complaint-against-norfolk-southern-unlawful-discharge'
