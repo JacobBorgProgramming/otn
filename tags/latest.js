@@ -13,7 +13,7 @@ function latest(){
     document.getElementById("link"+l5).innerHTML = release
     document.getElementById("link"+l5).href = 'https://www.justice.gov/opa/pr/justice-department-and-epa-file-complaint-against-norfolk-southern-unlawful-discharge'
     document.getElementById("time"+l5).innerHTML = '3/31/23 11:25am MST'
-    document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/'
+    document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/196'
 
     document.getElementById("rlink"+l5).innerHTML = ''
     document.getElementById("rlink"+l5).href = ''
