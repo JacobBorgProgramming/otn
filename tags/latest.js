@@ -15,6 +15,8 @@ var l5 = "1"
     document.getElementById("link"+l5).href = 'https://www.justice.gov/opa/pr/justice-department-and-epa-file-complaint-against-norfolk-southern-unlawful-discharge'
     document.getElementById("time"+l5).innerHTML = '3/31/23 11:25am MST'
     document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/196'
+    document.getElementById("minds"+l5).href = 'https://www.minds.com/newsfeed/1488608286868508688'
+
 
     document.getElementById("rlink"+l5).innerHTML = ''
     document.getElementById("rlink"+l5).href = ''
@@ -32,6 +34,8 @@ var l5 = "1"
     document.getElementById("link"+l4).href = 'https://www.openteanews.com/archive/2023/research/ai_bias/index.html'
     document.getElementById("time"+l4).innerHTML = '3/26/22 1:12pm MST'
     document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/183'
+    document.getElementById("minds"+l4).href = 'https://www.minds.com/openteanews/'
+
 
     document.getElementById("rlink"+l4).innerHTML = ''
     document.getElementById("rlink"+l4).href = ''
@@ -46,6 +50,8 @@ var l5 = "1"
     document.getElementById("link"+l3).href = 'https://twitter.com/openteanews/status/1638786884934713345'
     document.getElementById("time"+l3).innerHTML = '3/22/23 11:25pm MST'
     document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/180'
+    document.getElementById("minds"+l3).href = 'https://www.minds.com/openteanews/'
+
 
     document.getElementById("rlink"+l3).innerHTML = ''
      document.getElementById("rlink"+l3).href = ''
@@ -62,6 +68,8 @@ var l5 = "1"
     document.getElementById("link"+l2).href = ''
     document.getElementById("time"+l2).innerHTML = '3/10/22 5:18pm MST'
     document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/175'
+    document.getElementById("minds"+l2).href = 'https://www.minds.com/openteanews/'
+
 
     document.getElementById("rlink"+l2).innerHTML = ''
     document.getElementById("rlink"+l2).href = ''
@@ -77,6 +85,8 @@ var l5 = "1"
     document.getElementById("link"+l1).href = 'https://twitter.com/SpeakerMcCarthy/status/1630975642761035788'
     document.getElementById("time"+l1).innerHTML = '3/1/23 11:20am MST'
     document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/174'
+    document.getElementById("minds"+l1).href = 'https://www.minds.com/openteanews/'
+
 
     document.getElementById("rlink"+l1).innerHTML = ''
     document.getElementById("rlink"+l1).href = ''
