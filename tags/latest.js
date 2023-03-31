@@ -34,7 +34,7 @@ var l5 = "1"
     document.getElementById("link"+l4).href = 'https://www.openteanews.com/archive/2023/research/ai_bias/index.html'
     document.getElementById("time"+l4).innerHTML = '3/26/22 1:12pm MST'
     document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/183'
-    document.getElementById("minds"+l4).href = 'https://www.minds.com/openteanews/'
+    document.getElementById("minds"+l4).href = 'https://www.minds.com/newsfeed/1486827895916597260'
 
 
     document.getElementById("rlink"+l4).innerHTML = ''
