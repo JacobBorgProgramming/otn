@@ -12,7 +12,7 @@ function latest(){
     document.getElementById("content"+l1).innerHTML = ''
     document.getElementById("content0"+l1).innerHTML = ''
     document.getElementById("link"+l1).innerHTML = doc
-    document.getElementById("link"+l1).href = 'hhttps://www.scribd.com/document/635245507/Letter-Response-From-Manhattan-DA-Office-to-Chairmen?secret_password=vQnmIlHo7MisEjqFUnve#'
+    document.getElementById("link"+l1).href = 'https://www.scribd.com/document/635245507/Letter-Response-From-Manhattan-DA-Office-to-Chairmen?secret_password=vQnmIlHo7MisEjqFUnve#'
     document.getElementById("time"+l1).innerHTML = '3/31/23 5:08pm MST'
     document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/198'
     document.getElementById("minds"+l1).href = 'https://www.minds.com/newsfeed/1488690804061900809'
