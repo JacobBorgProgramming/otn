@@ -58,6 +58,12 @@
         <loc>/archive/</loc>
     </url>
     <url>
+        <loc>/data/crime/404.html</loc>
+    </url>
+    <url>
+        <loc>/data/crime/USHomicideData2011_2021.html</loc>
+    </url>
+    <url>
         <loc>/data/economy/404.html</loc>
     </url>
     <url>
@@ -77,6 +83,9 @@
     </url>
     <url>
         <loc>/data/404.html</loc>
+    </url>
+    <url>
+        <loc>/data/crime.html</loc>
     </url>
     <url>
         <loc>/data/economy.html</loc>
