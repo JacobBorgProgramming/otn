@@ -7,7 +7,24 @@ function latest(){
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     var mind = 'Read the post <svg class="icon icon-tabler icon-tabler-bulb" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="color: #4f4f4f;"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7"></path><path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3"></path><line x1="9.7" y1="17" x2="14.3" y2="17"></line></svg>'
 
-    var l1 = "1"
+    var l2 = "1"
+    document.getElementById("title"+l2).innerHTML = 'Robert F Kennedy jr has filed to run for president.'
+    document.getElementById("content"+l2).innerHTML = ''
+    document.getElementById("content0"+l2).innerHTML = ''
+    document.getElementById("link"+l2).innerHTML = doc
+    document.getElementById("link"+l2).href = 'https://docquery.fec.gov/cgi-bin/forms/P40011793/1696043/'
+    document.getElementById("time"+l2).innerHTML = '4/5/23 5:17pm MST'
+    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/203'
+    document.getElementById("minds"+l2).href = 'https://www.minds.com/newsfeed/1490505225860026370'
+
+
+    document.getElementById("rlink"+l2).innerHTML = ''
+    document.getElementById("rlink"+l2).href = ''
+
+    document.getElementById("rlink0"+l2).innerHTML = ''
+    document.getElementById("rlink0"+l2).href = ''
+
+    var l1 = "11"
     document.getElementById("title"+l1).innerHTML = 'New York DA Office confirms it used ~$5,000 of federal funds in its investigation into Trump or the Trump Organization between October 2019 and August 2021'
     document.getElementById("content"+l1).innerHTML = ''
     document.getElementById("content0"+l1).innerHTML = ''
@@ -25,7 +42,7 @@ function latest(){
     document.getElementById("rlink0"+l1).href = ''
 
 
-var l5 = "11"
+var l5 = "111"
     document.getElementById("title"+l5).innerHTML = '"Justice Department and EPA File Complaint Against Norfolk Southern for Unlawful Discharge of Pollutants and Hazardous Substances in East Palestine Derailment"'
     document.getElementById("content"+l5).innerHTML = '-US Department of Justice'
     document.getElementById("content0"+l5).innerHTML = ''
@@ -44,7 +61,7 @@ var l5 = "11"
 
 
 
-    var l4 = "111"
+    var l4 = "1111"
     document.getElementById("title"+l4).innerHTML = 'AI Bias?'
     document.getElementById("content"+l4).innerHTML = 'In recent weeks, AI chat and prompt tools have become quite a popular discussion topic. These tools developers have said that the tools can be used to increase productivity and may even replace journalists. Due to this, we have taken a look into the possible biases that AI could have.'
     document.getElementById("content0"+l4).innerHTML = 'We have conducted research into AI bias, and we encourage you to review our interactions with the Bing AI.'
@@ -61,7 +78,7 @@ var l5 = "11"
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = '' 
     
-    var l3 = "1111"
+    var l3 = "11111"
     document.getElementById("title"+l3).innerHTML = 'Twitters press contact email really does auto reply “💩”'
     document.getElementById("content"+l3).innerHTML = ''
     document.getElementById("link"+l3).innerHTML = tweet
@@ -78,22 +95,6 @@ var l5 = "11"
     document.getElementById("rlink0"+l3).href = ''
 
 
-    var l2 = "11111"
-    document.getElementById("title"+l2).innerHTML = 'Silicon Valley Bank (SVB) has collapsed; FDIC has taken control.'
-    document.getElementById("content"+l2).innerHTML = 'SVB had ~$209 billion in total assets as of December 31st, 2022.'
-    document.getElementById("content0"+l2).innerHTML = ''
-    document.getElementById("link"+l2).innerHTML = ''
-    document.getElementById("link"+l2).href = ''
-    document.getElementById("time"+l2).innerHTML = '3/10/22 5:18pm MST'
-    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/175'
-    document.getElementById("minds"+l2).href = 'https://www.minds.com/openteanews/'
-
-
-    document.getElementById("rlink"+l2).innerHTML = ''
-    document.getElementById("rlink"+l2).href = ''
-
-    document.getElementById("rlink0"+l2).innerHTML = ''
-    document.getElementById("rlink0"+l2).href = ''
 
 
    
