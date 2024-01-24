@@ -14,7 +14,7 @@ function latest(){
         document.getElementById("link"+l5).innerHTML = release
         document.getElementById("link"+l5).href = 'https://www.justice.gov/opa/pr/federal-attorney-pleads-guilty-conspiring-sexually-exploit-numerous-children'
         document.getElementById("time"+l5).innerHTML = '1/24/24 1:56pm MST'
-        document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/206'
+        document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/'
         document.getElementById("minds"+l5).href = 'https://www.minds.com/openteanews/'
 
 
