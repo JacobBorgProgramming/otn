@@ -10,11 +10,11 @@ function funfacts(){
 
     /* older 2 */
 
-    document.getElementById("fftitle2").innerHTML = 'Open Tea News, originally Meme Tea News, is now two years old! How time flies!'
-    document.getElementById("ffcontent3").innerHTML = '<p>The <a href="https://tea.borgcreative.com/" target="_blank">original website</a>, launched December 12th, 2021.</p>'
-    document.getElementById("ffcontent4").innerHTML = '<p>Since the original launch, we have made many technical improvements and added new features!</p>'
-    document.getElementById("fflink2").innerHTML = ''
-    document.getElementById("fflink2").href = ''
+    document.getElementById("fftitle2").innerHTML = '"Digital Journalism" first debuted as "teletext" in 1970.'
+    document.getElementById("ffcontent3").innerHTML = ''
+    document.getElementById("ffcontent4").innerHTML = ''
+    document.getElementById("fflink2").innerHTML = 'Learn more about Teletext'
+    document.getElementById("fflink2").href = 'https://en.wikipedia.org/wiki/Teletext'
     document.getElementById("fftime2").innerHTML = ''
 
 
