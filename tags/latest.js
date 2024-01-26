@@ -7,6 +7,24 @@ function latest(){
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
     var mind = 'Read the post <svg class="icon icon-tabler icon-tabler-bulb" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="color: #4f4f4f;"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7"></path><path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3"></path><line x1="9.7" y1="17" x2="14.3" y2="17"></line></svg>'
 
+
+    var l1 = "1"
+    document.getElementById("title"+l1).innerHTML = 'Tom MacDonald and Ben Shapiro release new song, "FACTS"'
+    document.getElementById("content"+l1).innerHTML = ''
+    document.getElementById("content0"+l1).innerHTML = ''
+    document.getElementById("link"+l1).innerHTML = 'Listen Now'
+    document.getElementById("link"+l1).href = 'https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i?si=HK-iRj1WRxmalglnr8MDDQ'
+    document.getElementById("time"+l1).innerHTML = '1/26/23 12:18pm MST'
+    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/206'
+    document.getElementById("minds"+l1).href = 'https://www.minds.com/openteanews/'
+
+
+    document.getElementById("rlink"+l1).innerHTML = ''
+    document.getElementById("rlink"+l1).href = ''
+
+    document.getElementById("rlink0"+l1).innerHTML = ''
+    document.getElementById("rlink0"+l1).href = ''
+
     var l5 = "1"
         document.getElementById("title"+l5).innerHTML = 'FDIC Attorney pleads guilty to conspiring to exploit numerous children'
         document.getElementById("content"+l5).innerHTML = ''
@@ -74,22 +92,6 @@ function latest(){
     document.getElementById("rlink0"+l2).innerHTML = ''
     document.getElementById("rlink0"+l2).href = ''
 
-    var l1 = "11111"
-    document.getElementById("title"+l1).innerHTML = 'New York DA Office confirms it used ~$5,000 of federal funds in its investigation into Trump or the Trump Organization between October 2019 and August 2021'
-    document.getElementById("content"+l1).innerHTML = ''
-    document.getElementById("content0"+l1).innerHTML = ''
-    document.getElementById("link"+l1).innerHTML = doc
-    document.getElementById("link"+l1).href = 'https://www.scribd.com/document/635245507/Letter-Response-From-Manhattan-DA-Office-to-Chairmen?secret_password=vQnmIlHo7MisEjqFUnve#'
-    document.getElementById("time"+l1).innerHTML = '3/31/23 5:08pm MST'
-    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/198'
-    document.getElementById("minds"+l1).href = 'https://www.minds.com/newsfeed/1488690804061900809'
-
-
-    document.getElementById("rlink"+l1).innerHTML = ''
-    document.getElementById("rlink"+l1).href = ''
-
-    document.getElementById("rlink0"+l1).innerHTML = ''
-    document.getElementById("rlink0"+l1).href = ''
 
 
 

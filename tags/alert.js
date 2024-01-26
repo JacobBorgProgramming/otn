@@ -7,9 +7,9 @@ function alert(){
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
 
 
-    document.getElementById("acontent1").innerHTML = 'New comment menu, updated interface, improved backend, and more! '
-    document.getElementById("alink").innerHTML = ''
-    document.getElementById("alink").href = ''
+    document.getElementById("acontent1").innerHTML = 'Tom MacDonald and Ben Shapiro release new song, "FACTS" '
+    document.getElementById("alink").innerHTML = 'Listen Now'
+    document.getElementById("alink").href = 'https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i?si=HK-iRj1WRxmalglnr8MDDQ'
 }
 
 /*
