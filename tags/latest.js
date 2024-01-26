@@ -25,7 +25,7 @@ function latest(){
     document.getElementById("rlink0"+l1).innerHTML = ''
     document.getElementById("rlink0"+l1).href = ''
 
-    var l5 = "1"
+    var l5 = "11"
         document.getElementById("title"+l5).innerHTML = 'FDIC Attorney pleads guilty to conspiring to exploit numerous children'
         document.getElementById("content"+l5).innerHTML = ''
         document.getElementById("content0"+l5).innerHTML = ''
@@ -42,7 +42,7 @@ function latest(){
         document.getElementById("rlink0"+l5).innerHTML = ''
         document.getElementById("rlink0"+l5).href = ''
 
-    var l4 = "11"
+    var l4 = "111"
     document.getElementById("title"+l4).innerHTML = 'Philadelphia-area man sentenced for forging FDA letters'
     document.getElementById("content"+l4).innerHTML = 'Peter Stoll III sentenced to 12 months in prison and one year of surpervised release for forging two letters from the FDA, which lead to the illegal sale of medical equipment.'
     document.getElementById("content0"+l4).innerHTML = ''
@@ -59,7 +59,7 @@ function latest(){
     document.getElementById("rlink0"+l4).innerHTML = ''
     document.getElementById("rlink0"+l4).href = ''
 
-    var l3 = "111"
+    var l3 = "1111"
     document.getElementById("title"+l3).innerHTML = 'Man sentenced to 39 months in prison for "hate crime" in church arson case.'
     document.getElementById("content"+l3).innerHTML = 'Darion Ray Sexton, 22, plead guilty.'
     document.getElementById("link"+l3).innerHTML = release
@@ -75,7 +75,7 @@ function latest(){
     document.getElementById("rlink0"+l3).innerHTML = ''
     document.getElementById("rlink0"+l3).href = ''
 
-    var l2 = "1111"
+    var l2 = "11111"
     document.getElementById("title"+l2).innerHTML = 'Robert F Kennedy jr has filed to run for president.'
     document.getElementById("content"+l2).innerHTML = ''
     document.getElementById("content0"+l2).innerHTML = ''
