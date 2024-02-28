@@ -8,7 +8,7 @@ function latest(){
     var mind = 'Read the post <svg class="icon icon-tabler icon-tabler-bulb" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="color: #4f4f4f;"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7"></path><path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3"></path><line x1="9.7" y1="17" x2="14.3" y2="17"></line></svg>'
 
     var l2 = "1"
-    document.getElementById("title"+l2).innerHTML = 'DOJ Ennacting Executive Order to Handle National Security Risks and Data Security'
+    document.getElementById("title"+l2).innerHTML = 'DOJ Enacting Executive Order to Handle National Security Risks and Data Security'
     document.getElementById("content"+l2).innerHTML = '“Today, we make clear that American citizens sensitive and personal data is not for sale to our adversaries,” <p>-Deputy Attorney General Lisa Monaco.</p> '
     document.getElementById("content0"+l2).innerHTML = ''
     document.getElementById("link"+l2).innerHTML = release
