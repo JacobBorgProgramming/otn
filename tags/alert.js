@@ -7,9 +7,9 @@ function alert(){
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
 
 
-    document.getElementById("acontent1").innerHTML = 'We are working on a few technical updates.'
-    document.getElementById("alink").innerHTML = ''
-    document.getElementById("alink").href = ''
+    document.getElementById("acontent1").innerHTML = 'Job approval rating of Biden drops two more points days after his poor debate performance versus Trump.'
+    document.getElementById("alink").innerHTML = tweet
+    document.getElementById("alink").href = 'https://x.com/rasmussen_poll/status/1808531151960539142?s=46'
 }
 
 /*
