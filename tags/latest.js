@@ -5,77 +5,18 @@ function latest(){
     var video = 'Watch the video <svg class="icon icon-tabler icon-tabler-video" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M15 10l4.553 -2.276a1 1 0 0 1 1.447 .894v6.764a1 1 0 0 1 -1.447 .894l-4.553 -2.276v-4z"></path><rect x="3" y="6" width="12" height="12" rx="2"></rect></svg>'
     var article = 'Read the article <svg class="icon icon-tabler icon-tabler-external-link" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5"></path><line x1="10" y1="14" x2="20" y2="4"></line><polyline points="15 4 20 4 20 9"></polyline></svg>'
     var data = 'See the data <svg class="icon icon-tabler icon-tabler-chart-line" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><line x1="4" y1="19" x2="20" y2="19"></line><polyline points="4 15 8 9 12 11 16 6 20 10"></polyline></svg>'
-    
-    var l1 = "1"
-    document.getElementById("title"+l1).innerHTML = 'Speaker McCarthy via Twitter: '
-    document.getElementById("content"+l1).innerHTML = '<p>"🚨 The House just approved an audit of Biden’s wasteful spending, which is driving up the cost of nearly everything you buy.</p><p>Every time he writes an executive order, you deserve to know exactly how much it’s going to cost you as a taxpayer.</p>'
-    document.getElementById("content0"+l1).innerHTML = ''
-    document.getElementById("link"+l1).innerHTML = tweet
-    document.getElementById("link"+l1).href = 'https://twitter.com/SpeakerMcCarthy/status/1630975642761035788'
-    document.getElementById("time"+l1).innerHTML = '3/1/23 11:20am MST'
-    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/174'
+    var mind = 'Read the post <svg class="icon icon-tabler icon-tabler-bulb" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="color: #4f4f4f;"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7"></path><path d="M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3"></path><line x1="9.7" y1="17" x2="14.3" y2="17"></line></svg>'
 
-    document.getElementById("rlink"+l1).innerHTML = ''
-    document.getElementById("rlink"+l1).href = ''
-
-    document.getElementById("rlink0"+l1).innerHTML = ''
-    document.getElementById("rlink0"+l1).href = ''
-
-    var l5 = "11"
-    document.getElementById("title"+l5).innerHTML = 'U.S. Officials Urge China Not to Ship Arms to Russia '
-    document.getElementById("content"+l5).innerHTML = ''
-    document.getElementById("content0"+l5).innerHTML = ''
-    document.getElementById("link"+l5).innerHTML = release
-    document.getElementById("link"+l5).href = 'https://www.defense.gov/News/News-Stories/Article/Article/3314089/us-officials-urge-china-not-to-ship-arms-to-russia/'
-    document.getElementById("time"+l5).innerHTML = '3/1/23 11:00am MST'
-    document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/173'
-
-    document.getElementById("rlink"+l5).innerHTML = ''
-    document.getElementById("rlink"+l5).href = ''
-
-    document.getElementById("rlink0"+l5).innerHTML = ''
-    document.getElementById("rlink0"+l5).href = ''
-
-
-    var l4 = "111"
-    document.getElementById("title"+l4).innerHTML = 'Ohio EPA releases latest water test results from East Palestine.'
-    document.getElementById("content"+l4).innerHTML = ''
-    document.getElementById("content0"+l4).innerHTML = ''
-    document.getElementById("link"+l4).innerHTML = release
-    document.getElementById("link"+l4).href = 'https://epa.ohio.gov/monitor-pollution/pollution-issues/east-palestine'
-    document.getElementById("time"+l4).innerHTML = '2/20/22 2:45pm MST'
-    document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/170'
-
-    document.getElementById("rlink"+l4).innerHTML = ''
-    document.getElementById("rlink"+l4).href = ''
-
-    document.getElementById("rlink0"+l4).innerHTML = ''
-    document.getElementById("rlink0"+l4).href = '' 
-    
-        var l3 = "1111"
-    document.getElementById("title"+l3).innerHTML = 'FEMA advises Governor Mike DeWine that Ohio is not eligable for FEMA assistance at this time.'
-    document.getElementById("content"+l3).innerHTML = 'Ohio is still dealing with the after effects of the February 3 freight train derailment in East Palestine, Ohio.'
-    document.getElementById("content0"+l3).innerHTML = '"The chemical plume of butyl acrylate in the Ohio River is currently located near Gallipolis, Ohio, and will be near Huntington, West Virginia, sometime tomorrow."<p>-Ohio EMA</p>'
-    document.getElementById("link"+l3).innerHTML = tweet
-    document.getElementById("link"+l3).href = 'https://twitter.com/GovMikeDeWine/status/1626248674383888384?s=20'
-    document.getElementById("time"+l3).innerHTML = '2/16/23 5:23pm MST'
-    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/170'
-
-    document.getElementById("rlink"+l3).innerHTML = 'East Palestine Update - 2/16/23 1:15 p.m. (Ohio EMA)'
-     document.getElementById("rlink"+l3).href = 'https://ema.ohio.gov/media-publications/news/east-palestine-update-021623-1315'
-
-    document.getElementById("rlink0"+l3).innerHTML = ''
-    document.getElementById("rlink0"+l3).href = ''
-
-
-    var l2 = "11111"
-    document.getElementById("title"+l2).innerHTML = 'DOD confirms that U.S. fighter aircraft shot down the high altitude surveillance balloon.'
-    document.getElementById("content"+l2).innerHTML = '<p>POTUS gave his orders on Wednesday to take action the moment it could be down without endangering any lives</p><p>The balloon was taken down off the coast of South Carolina in US airspace</p> '
+    var l2 = "1"
+    document.getElementById("title"+l2).innerHTML = 'DOJ Enacting Executive Order to Handle National Security Risks and Data Security'
+    document.getElementById("content"+l2).innerHTML = '“Today, we make clear that American citizens sensitive and personal data is not for sale to our adversaries,” <p>-Deputy Attorney General Lisa Monaco.</p> '
     document.getElementById("content0"+l2).innerHTML = ''
     document.getElementById("link"+l2).innerHTML = release
-    document.getElementById("link"+l2).href = 'https://www.defense.gov/News/Releases/Release/Article/3288535/statement-from-secretary-of-defense-lloyd-j-austin-iii/'
-    document.getElementById("time"+l2).innerHTML = '2/4/22 1:55pm MST'
-    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/160'
+    document.getElementById("link"+l2).href = 'https://www.justice.gov/opa/pr/justice-department-implement-groundbreaking-executive-order-addressing-national-security'
+    document.getElementById("time"+l2).innerHTML = '2/28/24 9:47am MST'
+    document.getElementById("telegram"+l2).href = 'https://t.me/openteanews/'
+    document.getElementById("minds"+l2).href = 'https://www.minds.com/openteanews/'
+
 
     document.getElementById("rlink"+l2).innerHTML = ''
     document.getElementById("rlink"+l2).href = ''
@@ -83,6 +24,72 @@ function latest(){
     document.getElementById("rlink0"+l2).innerHTML = ''
     document.getElementById("rlink0"+l2).href = ''
 
+    var l1 = "11"
+    document.getElementById("title"+l1).innerHTML = 'Tom MacDonald and Ben Shapiro release new song, "FACTS"'
+    document.getElementById("content"+l1).innerHTML = ''
+    document.getElementById("content0"+l1).innerHTML = ''
+    document.getElementById("link"+l1).innerHTML = 'Listen Now'
+    document.getElementById("link"+l1).href = 'https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i?si=HK-iRj1WRxmalglnr8MDDQ'
+    document.getElementById("time"+l1).innerHTML = '1/26/23 12:18pm MST'
+    document.getElementById("telegram"+l1).href = 'https://t.me/openteanews/206'
+    document.getElementById("minds"+l1).href = 'https://www.minds.com/openteanews/'
+
+
+    document.getElementById("rlink"+l1).innerHTML = ''
+    document.getElementById("rlink"+l1).href = ''
+
+    document.getElementById("rlink0"+l1).innerHTML = ''
+    document.getElementById("rlink0"+l1).href = ''
+
+    var l5 = "111"
+        document.getElementById("title"+l5).innerHTML = 'FDIC Attorney pleads guilty to conspiring to exploit numerous children'
+        document.getElementById("content"+l5).innerHTML = ''
+        document.getElementById("content0"+l5).innerHTML = ''
+        document.getElementById("link"+l5).innerHTML = release
+        document.getElementById("link"+l5).href = 'https://www.justice.gov/opa/pr/federal-attorney-pleads-guilty-conspiring-sexually-exploit-numerous-children'
+        document.getElementById("time"+l5).innerHTML = '1/24/24 1:56pm MST'
+        document.getElementById("telegram"+l5).href = 'https://t.me/openteanews/'
+        document.getElementById("minds"+l5).href = 'https://www.minds.com/openteanews/'
+
+
+        document.getElementById("rlink"+l5).innerHTML = ''
+        document.getElementById("rlink"+l5).href = ''
+
+        document.getElementById("rlink0"+l5).innerHTML = ''
+        document.getElementById("rlink0"+l5).href = ''
+
+    var l4 = "1111"
+    document.getElementById("title"+l4).innerHTML = 'Philadelphia-area man sentenced for forging FDA letters'
+    document.getElementById("content"+l4).innerHTML = 'Peter Stoll III sentenced to 12 months in prison and one year of surpervised release for forging two letters from the FDA, which lead to the illegal sale of medical equipment.'
+    document.getElementById("content0"+l4).innerHTML = ''
+    document.getElementById("link"+l4).innerHTML = release
+    document.getElementById("link"+l4).href = 'https://www.justice.gov/opa/pr/former-employee-medical-device-manufacturer-sentenced-forging-two-fda-letters-led-illegal'
+    document.getElementById("time"+l4).innerHTML = '1/24/24 1:09pm MST'
+    document.getElementById("telegram"+l4).href = 'https://t.me/openteanews/205'
+    document.getElementById("minds"+l4).href = 'https://www.minds.com/openteanews/'
+
+
+    document.getElementById("rlink"+l4).innerHTML = ''
+    document.getElementById("rlink"+l4).href = ''
+
+    document.getElementById("rlink0"+l4).innerHTML = ''
+    document.getElementById("rlink0"+l4).href = ''
+
+    var l3 = "11111"
+    document.getElementById("title"+l3).innerHTML = 'Man sentenced to 39 months in prison for "hate crime" in church arson case.'
+    document.getElementById("content"+l3).innerHTML = 'Darion Ray Sexton, 22, plead guilty.'
+    document.getElementById("link"+l3).innerHTML = release
+    document.getElementById("link"+l3).href = 'https://www.justice.gov/opa/pr/colorado-man-sentenced-church-arson-federal-hate-crime-case'
+    document.getElementById("time"+l3).innerHTML = '1/23/24 8:18pm MST'
+    document.getElementById("telegram"+l3).href = 'https://t.me/openteanews/204'
+    document.getElementById("minds"+l3).href = 'https://www.minds.com/openteanews/'
+
+
+    document.getElementById("rlink"+l3).innerHTML = ''
+     document.getElementById("rlink"+l3).href = ''
+
+    document.getElementById("rlink0"+l3).innerHTML = ''
+    document.getElementById("rlink0"+l3).href = ''
 
 
 
@@ -90,11 +97,23 @@ function latest(){
 
 
 
-    
 
 
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     /*https://tea.borgcreative.com/tags/telegram1.html */
 }
-
